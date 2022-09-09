@@ -1,0 +1,1748 @@
+uniqueid,bank_account,location_type,cellphone_access,household_size,age_of_respondent,gender_of_respondent,relationship_with_head,marital_status,education_level,job_type
+uniqueid_7272,Yes,Rural,Yes,4.0,31,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_8444,No,Rural,Yes,3.0,37,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2830,No,Rural,Yes,6.0,40,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_1523,Yes,Rural,Yes,3.0,35,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4316,No,Rural,Yes,3.0,21,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5405,No,Urban,Yes,7.0,17,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_5105,Yes,Rural,Yes,5.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1713,No,Rural,Yes,7.0,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3256,No,Rural,Yes,3.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4006,No,Rural,Yes,3.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3610,No,Rural,Yes,7.0,37,Female,Spouse,Married/Living together,Secondary education,Formally employed Government
+uniqueid_4908,Yes,Rural,Yes,2.0,31,Female,Spouse,Married/Living together,Tertiary education,Formally employed Private
+uniqueid_1877,No,Rural,Yes,4.0,56,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3184,No,Rural,Yes,4.0,41,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1553,No,Rural,Yes,8.0,19,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_7821,No,Rural,Yes,7.0,45,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_3873,No,Rural,Yes,8.0,39,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6639,No,Rural,Yes,4.0,61,Male,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3651,No,Rural,Yes,5.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7113,No,Rural,Yes,5.0,64,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_6332,Yes,Rural,Yes,,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8233,No,Urban,Yes,1.0,30,Male,Head of Household,Single/Never Married,Tertiary education,Formally employed Government
+uniqueid_5506,No,Rural,Yes,4.0,52,Male,Head of Household,Married/Living together,No formal education,Formally employed Private
+uniqueid_790,No,Rural,Yes,9.0,41,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1393,No,Rural,Yes,3.0,33,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4594,No,Urban,Yes,3.0,52,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_1267,No,Rural,Yes,4.0,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8202,No,Urban,No,6.0,62,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_4289,Yes,Rural,Yes,6.0,23,Female,Child,Divorced/Seperated,Primary education,Self employed
+uniqueid_2021,No,Rural,Yes,4.0,58,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1025,No,Urban,Yes,3.0,35,Male,Head of Household,Divorced/Seperated,Primary education,Self employed
+uniqueid_5683,No,Rural,No,7.0,19,Male,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_5032,No,Rural,No,2.0,32,Female,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_1112,No,Rural,No,3.0,22,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_233,No,Rural,Yes,2.0,18,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_914,No,Rural,No,10.0,17,Male,Child,Single/Never Married,Vocational/Specialised training,Farming and Fishing
+uniqueid_3560,No,Rural,No,1.0,74,Male,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4161,No,Rural,Yes,4.0,28,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7466,No,Rural,Yes,3.0,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3421,No,Urban,Yes,5.0,19,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_6181,No,Rural,Yes,3.0,20,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4823,No,Rural,Yes,1.0,63,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_1148,Yes,Urban,Yes,9.0,42,Female,Spouse,Married/Living together,Tertiary education,Formally employed Government
+uniqueid_4382,No,Rural,Yes,5.0,57,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7201,No,Rural,Yes,6.0,43,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_8708,No,Rural,No,4.0,26,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1273,No,Rural,Yes,7.0,44,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2434,Yes,Urban,Yes,5.0,47,Male,Head of Household,Married/Living together,Secondary education,Formally employed Government
+uniqueid_86,No,Rural,Yes,5.0,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_371,No,Rural,Yes,2.0,78,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_864,No,Rural,No,3.0,82,Male,Head of Household,Married/Living together,No formal education,Government Dependent
+uniqueid_4432,No,Urban,Yes,7.0,19,Female,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_530,No,Rural,Yes,5.0,42,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6431,No,Rural,Yes,,27,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_480,No,Rural,No,3.0,48,Female,Head of Household,Widowed,Primary education,Government Dependent
+uniqueid_510,No,Rural,Yes,2.0,45,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_2707,No,Urban,Yes,4.0,20,Male,Parent,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_3049,No,Rural,Yes,7.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5147,No,Rural,No,7.0,18,Female,Child,Single/Never Married,Secondary education,Other Income
+uniqueid_2778,No,Urban,Yes,2.0,76,Female,Head of Household,Divorced/Seperated,No formal education,Other Income
+uniqueid_5848,No,Rural,Yes,8.0,36,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_2882,No,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_2230,No,Urban,Yes,6.0,19,Male,Parent,Single/Never Married,Secondary education,Self employed
+uniqueid_3501,No,Rural,Yes,2.0,77,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_3195,No,Rural,No,3.0,62,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7588,No,Rural,No,4.0,27,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_6910,No,Rural,Yes,2.0,60,Male,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_2017,Yes,Rural,Yes,4.0,35,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8367,No,Rural,Yes,4.0,32,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2295,No,Urban,Yes,,29,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_4003,Yes,Urban,Yes,4.0,32,Male,Head of Household,Married/Living together,Tertiary education,Formally employed Government
+uniqueid_2036,No,Urban,Yes,2.0,17,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_2588,No,Rural,Yes,,34,Female,Child,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_490,No,Rural,Yes,4.0,27,Female,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_3042,No,Rural,No,5.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6236,No,Rural,No,1.0,33,Male,Head of Household,Single/Never Married,Primary education,Self employed
+uniqueid_2064,No,Rural,No,5.0,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1558,No,Rural,Yes,6.0,45,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6177,No,Rural,No,7.0,43,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8237,No,Rural,No,2.0,59,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5003,Yes,Rural,Yes,3.0,27,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_905,No,Rural,Yes,5.0,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5788,No,Rural,Yes,5.0,52,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_8675,No,Rural,Yes,2.0,25,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_3703,No,Rural,Yes,2.0,26,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4925,No,Rural,Yes,3.0,34,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_1850,No,Rural,Yes,1.0,27,Male,Head of Household,Single/Never Married,Secondary education,Informally employed
+uniqueid_6378,No,Rural,Yes,3.0,41,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_521,No,Rural,No,5.0,31,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3920,No,Rural,Yes,8.0,37,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_44,No,Rural,Yes,3.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2947,No,Rural,Yes,2.0,61,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7820,No,Rural,Yes,6.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8657,No,Rural,Yes,3.0,26,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6416,No,Rural,Yes,5.0,29,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1481,No,Urban,Yes,8.0,40,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_4737,No,Rural,Yes,6.0,51,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4510,No,Rural,Yes,5.0,31,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_1855,No,Rural,Yes,5.0,31,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_506,No,Rural,Yes,,38,Female,Child,Divorced/Seperated,Primary education,Informally employed
+uniqueid_203,No,Rural,Yes,5.0,70,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7005,No,Rural,Yes,5.0,42,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_733,No,Rural,Yes,3.0,69,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5284,No,Rural,Yes,2.0,57,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5037,No,Rural,Yes,3.0,79,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7929,No,Rural,Yes,5.0,18,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8385,No,Urban,Yes,1.0,53,Male,Head of Household,Married/Living together,Primary education,Formally employed Private
+uniqueid_4854,No,Urban,Yes,4.0,39,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_7498,No,Urban,Yes,4.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2037,No,Rural,No,5.0,25,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2722,No,Rural,Yes,7.0,48,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4078,No,Rural,Yes,,29,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_116,No,Rural,Yes,3.0,25,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1295,No,Rural,Yes,1.0,37,Male,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_6173,No,Rural,Yes,5.0,52,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4427,No,Rural,No,4.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3363,No,Rural,No,,52,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4871,No,Rural,Yes,3.0,23,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5365,No,Rural,Yes,3.0,21,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_8623,No,Rural,Yes,8.0,16,Female,Other relative,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_5664,No,Rural,Yes,6.0,40,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4320,No,Rural,Yes,4.0,72,Female,Spouse,Married/Living together,No formal education,Remittance Dependent
+uniqueid_3475,Yes,Rural,Yes,8.0,23,Female,Child,Single/Never Married,Tertiary education,Remittance Dependent
+uniqueid_6869,No,Urban,Yes,3.0,17,Female,Parent,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_2072,Yes,Rural,Yes,7.0,36,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3186,No,Rural,Yes,6.0,37,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5443,No,Rural,Yes,2.0,60,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_7528,No,Rural,Yes,4.0,38,Female,Child,Divorced/Seperated,No formal education,Informally employed
+uniqueid_7381,No,Rural,Yes,3.0,24,Female,Parent,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_3120,No,Rural,Yes,7.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2876,No,Urban,Yes,7.0,16,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_2066,No,Rural,Yes,5.0,32,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_7447,No,Rural,Yes,4.0,30,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8201,No,Rural,Yes,3.0,20,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_8125,No,Rural,Yes,3.0,41,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_3554,No,Rural,Yes,4.0,25,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_4079,No,Rural,Yes,7.0,17,Female,Child,Single/Never Married,Primary education,Dont Know/Refuse to answer
+uniqueid_3699,No,Rural,Yes,4.0,53,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6312,No,Rural,No,1.0,55,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_8527,No,Rural,Yes,5.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8493,No,Rural,Yes,1.0,68,Male,Spouse,Married/Living together,No formal education,Remittance Dependent
+uniqueid_4304,No,Rural,Yes,1.0,53,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_4483,No,Rural,No,,79,Female,Head of Household,Married/Living together,No formal education,Other Income
+uniqueid_4689,No,Urban,Yes,4.0,29,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_2724,No,Rural,No,5.0,58,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1578,No,Rural,Yes,,54,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7365,No,Rural,Yes,7.0,19,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1928,No,Rural,Yes,8.0,18,Female,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_8377,No,Urban,Yes,,22,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4113,No,Rural,No,4.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3410,No,Urban,Yes,6.0,42,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7114,No,Rural,Yes,5.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3419,No,Rural,Yes,3.0,31,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_2267,No,Rural,Yes,4.0,51,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_1716,Yes,Rural,Yes,1.0,25,Male,Head of Household,Single/Never Married,Tertiary education,Other Income
+uniqueid_4552,No,Rural,Yes,2.0,22,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_2764,No,Rural,Yes,3.0,25,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_339,No,Urban,Yes,1.0,73,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_4832,No,Rural,Yes,5.0,60,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4762,No,Rural,Yes,,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3643,No,Rural,Yes,5.0,32,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6680,No,Rural,Yes,6.0,46,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4203,No,Urban,Yes,3.0,23,Female,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_686,No,Rural,Yes,5.0,40,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_6928,No,Rural,Yes,4.0,38,Female,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_811,No,Urban,Yes,7.0,18,Female,Other non-relatives,Single/Never Married,Secondary education,Informally employed
+uniqueid_2160,No,Rural,Yes,4.0,50,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_4478,No,Rural,Yes,5.0,69,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6107,No,Rural,Yes,6.0,66,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4744,No,Rural,Yes,4.0,39,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_7283,No,Rural,Yes,7.0,54,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_2110,No,Rural,Yes,5.0,34,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_6835,No,Rural,No,2.0,34,Female,Child,Divorced/Seperated,Primary education,Remittance Dependent
+uniqueid_3251,No,Urban,Yes,,24,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_478,No,Rural,Yes,6.0,58,Male,Head of Household,Married/Living together,No formal education,Self employed
+uniqueid_2426,No,Rural,No,5.0,16,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_150,No,Rural,Yes,1.0,53,Female,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7222,No,Rural,Yes,1.0,52,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_6701,No,Rural,Yes,,39,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1509,No,Rural,Yes,5.0,44,Female,Spouse,Married/Living together,Primary education,Formally employed Private
+uniqueid_4114,No,Rural,Yes,1.0,37,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_2927,No,Urban,No,1.0,38,Female,Head of Household,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_595,No,Rural,Yes,6.0,16,Male,Parent,Single/Never Married,Primary education,Informally employed
+uniqueid_1297,No,Urban,Yes,3.0,22,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_6884,No,Rural,No,3.0,29,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8296,No,Rural,No,4.0,72,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3489,No,Rural,Yes,2.0,47,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_1528,No,Rural,No,3.0,23,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7585,No,Rural,Yes,5.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2675,No,Rural,Yes,2.0,26,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_5757,No,Urban,Yes,4.0,23,Male,Child,Single/Never Married,Secondary education,Self employed
+uniqueid_6094,No,Rural,Yes,6.0,30,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_3017,No,Rural,Yes,5.0,17,Female,Other non-relatives,Single/Never Married,Secondary education,Informally employed
+uniqueid_6213,No,Urban,Yes,6.0,22,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4899,Yes,Urban,Yes,4.0,35,Female,Spouse,Married/Living together,Secondary education,Other Income
+uniqueid_1862,No,Urban,Yes,1.0,57,Female,Head of Household,Widowed,No formal education,Self employed
+uniqueid_6230,No,Rural,Yes,4.0,18,Female,Other relative,Single/Never Married,Primary education,Self employed
+uniqueid_5977,No,Rural,Yes,,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_753,No,Rural,No,5.0,30,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_7539,No,Rural,No,5.0,53,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_873,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_4977,No,Rural,Yes,,52,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6079,Yes,Rural,Yes,,65,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_3083,Yes,Rural,Yes,,43,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_2635,No,Rural,Yes,2.0,28,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4968,No,Rural,Yes,,54,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_2565,No,Urban,Yes,4.0,53,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_3028,No,Urban,Yes,3.0,60,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_5982,No,Rural,Yes,6.0,35,Female,Child,Divorced/Seperated,Primary education,Informally employed
+uniqueid_8314,No,Rural,Yes,5.0,17,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_2013,No,Rural,Yes,,70,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3456,No,Urban,Yes,3.0,27,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_1595,No,Rural,Yes,,41,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_4902,No,Rural,Yes,3.0,82,Female,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2389,Yes,Rural,Yes,4.0,31,Male,Head of Household,Single/Never Married,Secondary education,Informally employed
+uniqueid_3072,No,Rural,Yes,2.0,45,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2224,No,Rural,Yes,4.0,29,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_1917,Yes,Rural,Yes,1.0,33,Male,Head of Household,Divorced/Seperated,Primary education,Self employed
+uniqueid_5921,No,Rural,Yes,3.0,24,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6602,No,Rural,Yes,5.0,69,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2569,No,Rural,Yes,3.0,70,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_7938,No,Rural,Yes,4.0,28,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3114,No,Rural,Yes,11.0,38,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8487,No,Rural,No,2.0,90,Male,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_3636,No,Rural,No,5.0,29,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1167,No,Rural,Yes,5.0,43,Male,Child,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6207,No,Rural,Yes,6.0,36,Female,Spouse,Married/Living together,Primary education,Formally employed Private
+uniqueid_3934,No,Rural,Yes,8.0,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6327,No,Rural,Yes,3.0,32,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_5640,No,Rural,Yes,2.0,50,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6748,No,Rural,No,6.0,30,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_1637,No,Rural,Yes,,31,Female,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4598,No,Rural,Yes,5.0,34,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5543,No,Rural,Yes,10.0,48,Male,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing
+uniqueid_8025,Yes,Rural,Yes,5.0,24,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_68,No,Urban,Yes,,37,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4226,No,Urban,Yes,5.0,24,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_7212,No,Rural,Yes,,27,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4343,No,Rural,Yes,7.0,75,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6914,No,Rural,No,7.0,44,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_479,Yes,Urban,Yes,4.0,22,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_270,No,Rural,Yes,3.0,67,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7419,Yes,Rural,Yes,2.0,67,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1151,Yes,Rural,Yes,,47,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4554,No,Rural,Yes,5.0,59,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_1262,No,Rural,No,5.0,17,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_7400,No,Rural,Yes,3.0,30,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_7773,Yes,Rural,Yes,7.0,40,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_5612,No,Rural,Yes,6.0,34,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_5631,No,Rural,Yes,4.0,31,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_745,No,Rural,Yes,4.0,19,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7007,No,Rural,Yes,2.0,54,Female,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3169,No,Rural,Yes,4.0,29,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5648,No,Rural,Yes,2.0,73,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_2183,No,Rural,Yes,7.0,42,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6813,No,Rural,Yes,3.0,20,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1014,No,Rural,Yes,4.0,33,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4303,No,Rural,Yes,3.0,30,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6554,No,Rural,No,5.0,30,Female,Spouse,Married/Living together,Primary education,Dont Know/Refuse to answer
+uniqueid_3275,No,Rural,Yes,2.0,25,Female,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_1786,No,Rural,Yes,4.0,18,Female,Other relative,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_5935,No,Rural,No,4.0,35,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6518,No,Rural,Yes,2.0,47,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_6588,No,Rural,Yes,,31,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_98,No,Rural,No,5.0,25,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_6477,No,Rural,Yes,5.0,33,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4729,No,Rural,Yes,5.0,52,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_4589,No,Rural,No,9.0,30,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_4254,No,Rural,Yes,4.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4972,No,Rural,Yes,4.0,23,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_3316,No,Rural,No,6.0,45,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8525,No,Rural,Yes,6.0,41,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_6252,No,Rural,Yes,6.0,63,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7893,No,Rural,Yes,6.0,39,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3628,No,Rural,Yes,4.0,16,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1319,No,Rural,No,2.0,20,Female,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7076,No,Rural,Yes,6.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_705,Yes,Urban,Yes,7.0,35,Female,Spouse,Married/Living together,Primary education,Other Income
+uniqueid_4600,No,Rural,Yes,7.0,16,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_3701,Yes,Rural,Yes,,44,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_1097,No,Rural,Yes,2.0,61,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6323,No,Rural,Yes,2.0,67,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_1735,No,Rural,Yes,4.0,23,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_3646,No,Rural,Yes,4.0,28,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_7855,No,Rural,Yes,1.0,40,Male,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_5570,No,Rural,Yes,5.0,38,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_447,No,Rural,Yes,6.0,32,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_882,No,Rural,Yes,4.0,20,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_6360,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,Tertiary education,Other Income
+uniqueid_2676,No,Rural,Yes,,23,Female,Head of Household,Single/Never Married,Primary education,Self employed
+uniqueid_5549,No,Rural,Yes,4.0,34,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_7960,No,Rural,Yes,4.0,28,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_7191,No,Rural,Yes,,17,Female,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_7362,No,Rural,Yes,3.0,67,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_8269,No,Rural,No,3.0,21,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3849,No,Rural,No,3.0,20,Male,Head of Household,Single/Never Married,No formal education,Government Dependent
+uniqueid_6595,Yes,Urban,Yes,2.0,42,Female,Head of Household,Widowed,Secondary education,Farming and Fishing
+uniqueid_3813,No,Urban,Yes,6.0,46,Female,Spouse,Married/Living together,Secondary education,Self employed
+uniqueid_3205,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5749,Yes,Urban,Yes,4.0,34,Male,Head of Household,Divorced/Seperated,Secondary education,Informally employed
+uniqueid_3982,No,Rural,Yes,6.0,44,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_2948,No,Rural,Yes,,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6280,No,Rural,Yes,3.0,21,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8449,No,Rural,Yes,5.0,36,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5798,No,Rural,Yes,,41,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8601,No,Rural,Yes,3.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4033,No,Rural,Yes,4.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2226,Yes,Urban,Yes,5.0,68,Male,Head of Household,Married/Living together,Secondary education,Other Income
+uniqueid_1545,No,Rural,Yes,6.0,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4279,No,Rural,Yes,3.0,21,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_5445,No,Rural,No,4.0,70,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_7145,No,Urban,Yes,8.0,51,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7014,No,Rural,Yes,5.0,38,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_5902,No,Rural,Yes,2.0,22,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8191,No,Rural,No,1.0,50,Male,Head of Household,Single/Never Married,Primary education,Formally employed Private
+uniqueid_3725,No,Rural,No,6.0,44,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6513,No,Rural,No,6.0,59,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_7097,No,Rural,Yes,6.0,18,Male,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_7286,No,Rural,Yes,3.0,30,Male,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_5722,No,Rural,Yes,1.0,47,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_8619,No,Rural,Yes,3.0,45,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_6600,No,Rural,No,3.0,20,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6160,No,Rural,No,3.0,50,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_7061,Yes,Rural,Yes,5.0,42,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_6348,Yes,Urban,Yes,6.0,45,Male,Head of Household,Married/Living together,Tertiary education,Formally employed Government
+uniqueid_6242,No,Rural,Yes,,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5981,No,Rural,Yes,3.0,22,Male,Other relative,Single/Never Married,Vocational/Specialised training,Informally employed
+uniqueid_4683,No,Rural,Yes,5.0,30,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3151,No,Rural,Yes,,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5987,No,Rural,Yes,7.0,57,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4456,No,Urban,Yes,,20,Female,Other relative,Single/Never Married,Primary education,Informally employed
+uniqueid_3688,No,Urban,No,2.0,99,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_1340,Yes,Urban,Yes,7.0,36,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_2500,No,Rural,Yes,5.0,67,Female,Head of Household,Widowed,Secondary education,Farming and Fishing
+uniqueid_7442,No,Urban,Yes,2.0,42,Male,Head of Household,Married/Living together,Vocational/Specialised training,Self employed
+uniqueid_4935,No,Rural,No,3.0,46,Male,Head of Household,Single/Never Married,Primary education,Other Income
+uniqueid_7230,No,Rural,Yes,,50,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5629,No,Rural,Yes,8.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_935,No,Rural,Yes,4.0,34,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_6244,No,Rural,Yes,2.0,32,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1603,No,Rural,Yes,9.0,65,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2933,No,Rural,Yes,2.0,23,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2130,No,Rural,Yes,5.0,24,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4165,No,Rural,Yes,7.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3919,No,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8712,No,Rural,Yes,4.0,27,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_7073,No,Rural,Yes,3.0,60,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_5352,No,Rural,Yes,7.0,38,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_238,No,Rural,No,6.0,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1760,No,Rural,Yes,4.0,29,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7551,No,Rural,Yes,4.0,31,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5124,No,Rural,No,3.0,67,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3705,No,Rural,No,9.0,47,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5231,No,Rural,Yes,,62,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7557,No,Rural,Yes,6.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7949,No,Rural,Yes,6.0,54,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1059,No,Rural,Yes,2.0,25,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8703,No,Rural,Yes,5.0,39,Female,Spouse,Married/Living together,Primary education,Formally employed Government
+uniqueid_1636,No,Rural,Yes,8.0,73,Female,Child,Married/Living together,No formal education,Informally employed
+uniqueid_904,No,Rural,No,9.0,40,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_1641,No,Rural,Yes,4.0,17,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_3415,Yes,Urban,Yes,3.0,39,Female,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_6912,No,Rural,Yes,3.0,22,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3530,No,Rural,Yes,6.0,20,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_3312,Yes,Rural,Yes,5.0,35,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_5332,No,Urban,Yes,4.0,41,Female,Spouse,Married/Living together,Tertiary education,Self employed
+uniqueid_6790,No,Rural,Yes,,51,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6948,No,Rural,Yes,4.0,22,Female,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_5393,No,Rural,No,3.0,73,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6991,No,Rural,Yes,6.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5534,No,Rural,Yes,,28,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2812,No,Rural,Yes,,38,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_857,No,Rural,Yes,2.0,22,Female,Parent,Single/Never Married,Secondary education,Informally employed
+uniqueid_7659,No,Rural,No,4.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8486,No,Rural,Yes,4.0,39,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7368,No,Rural,Yes,7.0,39,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5610,No,Rural,No,3.0,49,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_8452,No,Rural,Yes,,47,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2362,No,Rural,Yes,5.0,60,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6393,No,Rural,Yes,3.0,24,Female,Spouse,Married/Living together,Vocational/Specialised training,Informally employed
+uniqueid_5563,No,Rural,Yes,6.0,37,Female,Spouse,Married/Living together,Secondary education,Self employed
+uniqueid_6603,No,Rural,No,,17,Male,Child,Single/Never Married,Vocational/Specialised training,Informally employed
+uniqueid_2338,No,Rural,Yes,5.0,22,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_3022,No,Rural,Yes,2.0,18,Female,Parent,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2327,No,Rural,Yes,6.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8066,No,Rural,Yes,3.0,27,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_3712,No,Rural,No,6.0,32,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_1026,No,Rural,No,2.0,79,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_6016,No,Rural,Yes,8.0,19,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_7481,No,Rural,Yes,3.0,52,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_1420,No,Rural,Yes,,29,Male,Head of Household,Single/Never Married,No formal education,Informally employed
+uniqueid_3351,No,Rural,Yes,5.0,63,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_8192,Yes,Rural,Yes,4.0,24,Female,Spouse,Married/Living together,Secondary education,Formally employed Private
+uniqueid_8100,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4466,No,Urban,Yes,4.0,36,Female,Other non-relatives,Divorced/Seperated,Primary education,Informally employed
+uniqueid_2885,No,Urban,Yes,6.0,42,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2482,Yes,Urban,Yes,3.0,21,Female,Parent,Single/Never Married,Secondary education,Formally employed Private
+uniqueid_3495,No,Rural,Yes,7.0,16,Male,Child,Single/Never Married,Primary education,Other Income
+uniqueid_7281,No,Rural,Yes,2.0,54,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_5024,No,Rural,Yes,3.0,29,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_284,No,Rural,Yes,3.0,24,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4012,No,Rural,No,7.0,52,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5585,Yes,Rural,Yes,10.0,47,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2845,No,Rural,Yes,6.0,22,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6222,No,Rural,No,1.0,81,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_697,No,Rural,No,7.0,16,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_577,No,Rural,No,,71,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_7605,No,Rural,Yes,5.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3557,No,Rural,Yes,7.0,46,Female,Spouse,Married/Living together,Secondary education,Dont Know/Refuse to answer
+uniqueid_4087,No,Rural,No,1.0,77,Female,Head of Household,Widowed,No formal education,Other Income
+uniqueid_5804,No,Rural,Yes,7.0,37,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_6130,No,Rural,Yes,2.0,71,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_2119,No,Rural,Yes,5.0,19,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2483,No,Rural,Yes,1.0,24,Male,Head of Household,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_7758,No,Rural,No,3.0,40,Female,Spouse,Single/Never Married,Primary education,Informally employed
+uniqueid_2415,No,Rural,Yes,7.0,54,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1685,No,Rural,Yes,,31,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2655,No,Urban,Yes,8.0,25,Female,Parent,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_7566,No,Rural,No,1.0,67,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_2725,No,Rural,Yes,1.0,22,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8347,No,Urban,Yes,3.0,26,Male,Head of Household,Married/Living together,Primary education,Remittance Dependent
+uniqueid_7078,No,Rural,No,1.0,48,Female,Head of Household,Widowed,Secondary education,Farming and Fishing
+uniqueid_5647,No,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_1325,No,Rural,Yes,2.0,52,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_3808,No,Rural,Yes,,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3835,No,Rural,Yes,3.0,33,Male,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_1248,No,Rural,Yes,3.0,25,Female,Other relative,Single/Never Married,Primary education,Informally employed
+uniqueid_6485,No,Urban,Yes,7.0,22,Female,Other non-relatives,Single/Never Married,Primary education,Informally employed
+uniqueid_358,No,Rural,Yes,6.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5415,No,Rural,No,,64,Female,Spouse,Married/Living together,No formal education,Self employed
+uniqueid_3744,No,Rural,No,8.0,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2386,No,Urban,Yes,3.0,36,Female,Head of Household,Divorced/Seperated,Other/Dont know/RTA,Informally employed
+uniqueid_4347,No,Rural,No,4.0,37,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4410,No,Rural,Yes,1.0,63,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_6783,No,Rural,No,2.0,56,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2572,No,Rural,Yes,5.0,31,Female,Spouse,Married/Living together,Secondary education,Formally employed Government
+uniqueid_2597,No,Rural,Yes,7.0,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2586,No,Rural,Yes,6.0,48,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_7399,Yes,Rural,Yes,9.0,46,Female,Head of Household,Widowed,Secondary education,Farming and Fishing
+uniqueid_6830,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_3640,Yes,Urban,Yes,1.0,39,Male,Head of Household,Single/Never Married,Tertiary education,Other Income
+uniqueid_4630,Yes,Rural,Yes,7.0,43,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_4748,No,Rural,Yes,6.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6066,No,Rural,No,2.0,25,Female,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_6278,Yes,Urban,Yes,,48,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_8496,No,Rural,Yes,2.0,79,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3987,No,Rural,Yes,,68,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1238,Yes,Rural,Yes,8.0,38,Female,Spouse,Married/Living together,Tertiary education,Farming and Fishing
+uniqueid_91,No,Rural,Yes,3.0,46,Female,Head of Household,Widowed,Primary education,Self employed
+uniqueid_3695,No,Rural,Yes,4.0,17,Female,Other relative,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2612,No,Rural,Yes,4.0,19,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8665,No,Rural,Yes,,52,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8107,No,Rural,Yes,4.0,29,Male,Head of Household,Married/Living together,Tertiary education,Self employed
+uniqueid_977,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5193,No,Rural,Yes,6.0,33,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_7952,No,Rural,No,5.0,30,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_8688,No,Rural,Yes,8.0,39,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_121,No,Rural,Yes,3.0,48,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_3134,No,Rural,No,5.0,53,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_5172,No,Rural,Yes,10.0,22,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2560,Yes,Rural,Yes,8.0,55,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_8613,No,Rural,Yes,6.0,41,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_5946,No,Rural,Yes,,27,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3345,No,Rural,No,6.0,52,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3711,Yes,Rural,Yes,4.0,21,Male,Child,Single/Never Married,Primary education,Other Income
+uniqueid_4361,No,Rural,Yes,2.0,16,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1382,No,Rural,Yes,3.0,35,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_1907,No,Rural,Yes,5.0,33,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5488,No,Rural,No,2.0,51,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5611,Yes,Urban,Yes,4.0,21,Male,Parent,Single/Never Married,Secondary education,Self employed
+uniqueid_7629,No,Rural,Yes,,49,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5136,No,Rural,Yes,6.0,38,Female,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_849,Yes,Rural,Yes,6.0,44,Female,Head of Household,Widowed,Secondary education,Farming and Fishing
+uniqueid_911,No,Rural,No,4.0,31,Female,Spouse,Married/Living together,Primary education,Other Income
+uniqueid_6584,No,Urban,Yes,2.0,25,Male,Other relative,Single/Never Married,Primary education,Self employed
+uniqueid_7931,No,Rural,Yes,,66,Female,Head of Household,Widowed,Primary education,Self employed
+uniqueid_7986,Yes,Rural,Yes,,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_766,No,Rural,Yes,2.0,66,Male,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_11,No,Rural,Yes,3.0,17,Male,Other relative,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_3625,No,Rural,Yes,1.0,78,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_738,No,Urban,No,3.0,19,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_4329,No,Rural,Yes,3.0,24,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2621,No,Rural,No,3.0,48,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_7751,No,Urban,Yes,3.0,53,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6274,No,Rural,No,,38,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_6921,No,Rural,Yes,,32,Female,Child,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_3734,No,Rural,Yes,4.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5158,No,Rural,Yes,6.0,31,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2771,No,Rural,Yes,7.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7756,No,Rural,No,2.0,24,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6575,No,Rural,Yes,7.0,21,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2850,No,Rural,No,,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7095,No,Rural,Yes,5.0,32,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_2527,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3445,Yes,Urban,Yes,12.0,65,Female,Spouse,Married/Living together,No formal education,Self employed
+uniqueid_5660,No,Rural,No,6.0,33,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_7521,No,Rural,Yes,5.0,54,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2891,No,Rural,Yes,4.0,61,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3611,No,Rural,Yes,4.0,25,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1875,No,Rural,Yes,7.0,48,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_2639,No,Rural,Yes,6.0,19,Female,Child,Single/Never Married,Secondary education,Other Income
+uniqueid_7648,No,Rural,Yes,6.0,24,Female,Parent,Single/Never Married,Primary education,Self employed
+uniqueid_1404,No,Rural,Yes,1.0,78,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4881,No,Rural,No,3.0,79,Female,Spouse,Married/Living together,No formal education,Remittance Dependent
+uniqueid_3064,Yes,Rural,Yes,8.0,38,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1952,No,Rural,Yes,,40,Female,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_313,No,Urban,Yes,6.0,35,Female,Head of Household,Divorced/Seperated,Secondary education,Self employed
+uniqueid_7678,No,Rural,Yes,7.0,18,Male,Parent,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_1209,No,Rural,Yes,3.0,29,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4637,No,Rural,No,3.0,63,Female,Spouse,Married/Living together,No formal education,Self employed
+uniqueid_2365,No,Rural,Yes,5.0,69,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_1038,Yes,Rural,Yes,5.0,38,Female,Spouse,Married/Living together,Tertiary education,Self employed
+uniqueid_3444,No,Rural,Yes,2.0,63,Female,Head of Household,Widowed,Primary education,Other Income
+uniqueid_4385,No,Rural,Yes,5.0,59,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_1702,No,Rural,Yes,5.0,50,Female,Head of Household,Divorced/Seperated,Vocational/Specialised training,Informally employed
+uniqueid_264,No,Rural,Yes,4.0,37,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5774,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1336,No,Rural,Yes,7.0,42,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_3396,No,Rural,Yes,3.0,24,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_5183,No,Rural,Yes,4.0,20,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2625,No,Rural,Yes,7.0,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4137,No,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,Primary education,Other Income
+uniqueid_731,No,Rural,Yes,3.0,28,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1901,Yes,Rural,Yes,3.0,32,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_6037,Yes,Urban,Yes,5.0,19,Male,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_4098,Yes,Rural,Yes,4.0,32,Female,Spouse,Married/Living together,Secondary education,Self employed
+uniqueid_241,No,Rural,No,,72,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_5062,No,Rural,Yes,2.0,75,Male,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_7829,No,Rural,No,2.0,64,Female,Head of Household,Widowed,No formal education,Other Income
+uniqueid_8198,No,Rural,Yes,3.0,52,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_5427,No,Rural,Yes,4.0,43,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_797,Yes,Rural,Yes,7.0,32,Female,Spouse,Married/Living together,Secondary education,Self employed
+uniqueid_7830,No,Rural,Yes,,25,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_5419,Yes,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,Tertiary education,Farming and Fishing
+uniqueid_173,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5345,No,Rural,No,3.0,40,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5354,No,Rural,Yes,2.0,55,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7356,No,Rural,Yes,1.0,37,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_3545,Yes,Rural,Yes,5.0,57,Male,Head of Household,Widowed,Vocational/Specialised training,Farming and Fishing
+uniqueid_1474,No,Rural,No,5.0,47,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7734,No,Rural,Yes,,37,Female,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_764,No,Rural,Yes,6.0,46,Female,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7939,No,Rural,Yes,1.0,55,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_1508,No,Rural,No,3.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_406,No,Rural,Yes,5.0,33,Male,Spouse,Married/Living together,Secondary education,Dont Know/Refuse to answer
+uniqueid_4323,No,Rural,Yes,7.0,41,Female,Head of Household,Single/Never Married,No formal education,Self employed
+uniqueid_2144,No,Rural,Yes,4.0,31,Female,Spouse,Married/Living together,Secondary education,Formally employed Government
+uniqueid_8599,No,Rural,No,6.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6424,No,Rural,No,4.0,56,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_3313,No,Rural,Yes,2.0,20,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2880,No,Rural,Yes,3.0,36,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4540,No,Rural,Yes,1.0,75,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_7099,Yes,Urban,Yes,5.0,64,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4480,No,Rural,Yes,5.0,49,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_3074,No,Rural,Yes,4.0,31,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5368,No,Rural,Yes,5.0,52,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_8223,No,Rural,No,,36,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1227,No,Rural,No,,46,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2941,No,Urban,Yes,4.0,33,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_322,No,Rural,Yes,2.0,18,Female,Child,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_2379,Yes,Urban,Yes,6.0,50,Male,Head of Household,Married/Living together,Tertiary education,Formally employed Private
+uniqueid_3902,No,Rural,No,7.0,39,Female,Spouse,Married/Living together,Primary education,Other Income
+uniqueid_2453,No,Rural,Yes,5.0,20,Female,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_3749,No,Rural,No,5.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2234,No,Rural,Yes,5.0,27,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5530,No,Urban,Yes,10.0,26,Female,Spouse,Married/Living together,Secondary education,Formally employed Private
+uniqueid_1408,No,Rural,Yes,6.0,40,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_3158,No,Rural,Yes,4.0,27,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_6092,No,Rural,Yes,4.0,30,Female,Other non-relatives,Single/Never Married,No formal education,Informally employed
+uniqueid_7715,No,Rural,Yes,6.0,19,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_7115,No,Rural,Yes,6.0,16,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_7238,No,Rural,Yes,3.0,66,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4173,Yes,Rural,Yes,,43,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6110,No,Rural,Yes,8.0,24,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_4117,Yes,Urban,Yes,6.0,25,Female,Parent,Single/Never Married,Primary education,Formally employed Private
+uniqueid_622,No,Rural,Yes,1.0,24,Male,Head of Household,Single/Never Married,Secondary education,Other Income
+uniqueid_671,No,Rural,Yes,4.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_862,Yes,Rural,Yes,7.0,45,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_6025,No,Rural,Yes,1.0,42,Male,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_6821,No,Rural,Yes,1.0,22,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4400,No,Rural,Yes,5.0,20,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1176,No,Rural,Yes,3.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2111,No,Rural,Yes,,30,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7040,No,Rural,Yes,6.0,39,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4549,No,Rural,Yes,3.0,46,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6903,Yes,Rural,Yes,,19,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_5951,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2585,No,Rural,Yes,6.0,19,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_7739,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_972,Yes,Rural,Yes,,24,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8253,No,Rural,Yes,2.0,19,Male,Child,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_1801,No,Rural,Yes,7.0,46,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3718,No,Rural,Yes,2.0,55,Female,Head of Household,Widowed,Primary education,Remittance Dependent
+uniqueid_7725,No,Rural,Yes,3.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4460,No,Rural,No,1.0,80,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_6559,No,Rural,Yes,6.0,30,Female,Spouse,Married/Living together,Primary education,Other Income
+uniqueid_4502,No,Rural,No,7.0,56,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_785,No,Urban,Yes,5.0,50,Male,Head of Household,Married/Living together,No formal education,Other Income
+uniqueid_251,No,Rural,Yes,5.0,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8342,No,Rural,Yes,4.0,36,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_927,Yes,Urban,Yes,7.0,54,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_4331,No,Rural,Yes,3.0,45,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4844,No,Rural,No,5.0,35,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_3160,No,Rural,Yes,2.0,52,Male,Head of Household,Married/Living together,Vocational/Specialised training,Informally employed
+uniqueid_3683,No,Rural,Yes,5.0,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5754,No,Rural,No,4.0,33,Female,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_310,No,Rural,Yes,7.0,44,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5078,Yes,Rural,Yes,3.0,55,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_593,No,Rural,Yes,3.0,21,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7245,No,Rural,Yes,3.0,62,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6118,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1358,Yes,Rural,Yes,,25,Female,Spouse,Married/Living together,Secondary education,Self employed
+uniqueid_1969,No,Rural,Yes,4.0,33,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1107,No,Rural,Yes,3.0,51,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5807,No,Urban,Yes,5.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5645,No,Rural,Yes,2.0,53,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2471,No,Rural,Yes,2.0,36,Female,Child,Widowed,No formal education,Informally employed
+uniqueid_2837,No,Rural,Yes,5.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1673,No,Rural,Yes,7.0,42,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6715,No,Urban,Yes,4.0,36,Male,Head of Household,Married/Living together,Secondary education,Formally employed Private
+uniqueid_2158,No,Urban,Yes,6.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1189,No,Rural,No,4.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4934,No,Rural,Yes,6.0,18,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7824,No,Rural,No,7.0,52,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_670,No,Rural,Yes,6.0,33,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_1334,No,Rural,No,1.0,52,Female,Head of Household,Widowed,No formal education,Other Income
+uniqueid_7695,Yes,Rural,No,5.0,67,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2499,Yes,Urban,Yes,4.0,54,Female,Child,Divorced/Seperated,Primary education,Other Income
+uniqueid_5063,No,Rural,No,6.0,51,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1740,No,Rural,Yes,3.0,26,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_674,No,Rural,Yes,2.0,26,Female,Head of Household,Widowed,Secondary education,Remittance Dependent
+uniqueid_5712,No,Rural,Yes,4.0,19,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_6067,No,Rural,Yes,6.0,52,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_456,No,Rural,Yes,6.0,41,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1182,No,Rural,Yes,4.0,43,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5372,No,Rural,Yes,,38,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2542,No,Rural,No,3.0,74,Female,Parent,Widowed,No formal education,Farming and Fishing
+uniqueid_5483,No,Rural,Yes,2.0,27,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_706,No,Rural,Yes,3.0,36,Female,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_2854,No,Rural,Yes,5.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2631,Yes,Rural,Yes,6.0,58,Male,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing
+uniqueid_4183,No,Rural,Yes,6.0,33,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4644,No,Rural,Yes,5.0,22,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_4119,Yes,Rural,Yes,1.0,23,Male,Head of Household,Single/Never Married,Primary education,Self employed
+uniqueid_4506,No,Rural,Yes,3.0,26,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4602,No,Rural,Yes,10.0,44,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1318,No,Rural,Yes,5.0,39,Female,Head of Household,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_6759,No,Rural,Yes,4.0,28,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2395,Yes,Rural,Yes,4.0,34,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4756,No,Rural,No,5.0,29,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_635,Yes,Urban,Yes,6.0,34,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_564,No,Rural,Yes,4.0,21,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4588,No,Rural,Yes,6.0,23,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_608,No,Rural,Yes,5.0,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1371,No,Rural,Yes,,22,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6996,No,Rural,Yes,3.0,48,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_2963,No,Rural,No,2.0,55,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_7687,No,Rural,Yes,8.0,38,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2188,No,Urban,Yes,,56,Female,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5974,No,Urban,Yes,3.0,29,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3605,No,Rural,Yes,3.0,87,Female,Head of Household,Widowed,Secondary education,Dont Know/Refuse to answer
+uniqueid_7425,No,Rural,Yes,4.0,28,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_5306,No,Rural,Yes,4.0,28,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8577,No,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3635,Yes,Rural,Yes,10.0,56,Male,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing
+uniqueid_3493,Yes,Urban,Yes,,31,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5006,Yes,Rural,Yes,2.0,45,Male,Head of Household,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_932,No,Rural,Yes,6.0,59,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1910,No,Rural,Yes,6.0,38,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_363,No,Rural,Yes,6.0,33,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_220,No,Rural,Yes,,63,Female,Head of Household,Widowed,Vocational/Specialised training,Farming and Fishing
+uniqueid_4783,Yes,Urban,Yes,,46,Female,Child,Married/Living together,Secondary education,Self employed
+uniqueid_3771,No,Rural,Yes,4.0,25,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_3385,No,Urban,Yes,10.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_171,No,Rural,Yes,4.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8242,No,Urban,Yes,5.0,45,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3735,No,Rural,Yes,5.0,30,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_3724,No,Rural,Yes,3.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3357,Yes,Urban,Yes,,39,Male,Head of Household,Married/Living together,Vocational/Specialised training,Self employed
+uniqueid_5912,No,Rural,Yes,6.0,20,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_3910,No,Urban,No,4.0,37,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_5709,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6881,Yes,Rural,Yes,6.0,37,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_5820,No,Rural,Yes,5.0,42,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_1472,No,Rural,Yes,2.0,45,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_496,Yes,Rural,Yes,6.0,68,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_4360,No,Rural,No,4.0,52,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2116,No,Rural,Yes,5.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8475,Yes,Rural,Yes,6.0,21,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_571,No,Rural,Yes,,68,Female,Head of Household,Widowed,Primary education,Remittance Dependent
+uniqueid_8215,No,Rural,Yes,3.0,55,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_6806,No,Rural,Yes,4.0,40,Female,Head of Household,Divorced/Seperated,Secondary education,Farming and Fishing
+uniqueid_2607,No,Rural,Yes,4.0,17,Male,Other relative,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_6793,No,Rural,Yes,5.0,38,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3097,No,Rural,Yes,4.0,31,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3091,Yes,Rural,Yes,6.0,43,Male,Head of Household,Married/Living together,Secondary education,Other Income
+uniqueid_6248,No,Rural,Yes,,33,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2748,No,Rural,Yes,,25,Male,Head of Household,Single/Never Married,Primary education,Self employed
+uniqueid_72,No,Rural,Yes,6.0,38,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_6131,No,Rural,Yes,7.0,37,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_7340,No,Rural,Yes,4.0,27,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3279,No,Rural,Yes,3.0,48,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1331,No,Rural,No,1.0,34,Female,Head of Household,Divorced/Seperated,No formal education,Formally employed Private
+uniqueid_202,No,Urban,Yes,4.0,25,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_8132,No,Rural,Yes,2.0,41,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_4645,Yes,Rural,Yes,3.0,20,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_7574,Yes,Rural,Yes,3.0,67,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2739,No,Rural,No,3.0,57,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6978,Yes,Rural,Yes,1.0,68,Male,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_3171,No,Rural,No,5.0,20,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_4845,No,Rural,No,6.0,49,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_832,No,Urban,Yes,3.0,16,Male,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_3353,No,Rural,Yes,11.0,18,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1683,No,Rural,No,1.0,98,Male,Head of Household,Widowed,Primary education,Other Income
+uniqueid_6774,No,Rural,Yes,3.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3470,No,Rural,Yes,4.0,22,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8375,No,Rural,Yes,7.0,26,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_3576,Yes,Rural,Yes,5.0,51,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6342,No,Rural,Yes,2.0,23,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4620,No,Rural,Yes,5.0,18,Female,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6579,Yes,Rural,Yes,9.0,36,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6308,No,Rural,No,4.0,64,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_419,No,Rural,Yes,8.0,32,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6735,No,Rural,No,6.0,47,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6853,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1430,No,Rural,Yes,10.0,21,Female,Child,Single/Never Married,Primary education,Self employed
+uniqueid_1106,No,Rural,No,7.0,37,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_6484,No,Rural,Yes,3.0,57,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8732,No,Rural,No,4.0,29,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_6389,No,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2444,Yes,Urban,Yes,2.0,26,Female,Spouse,Married/Living together,Tertiary education,Remittance Dependent
+uniqueid_6673,Yes,Rural,Yes,1.0,33,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_1866,No,Rural,Yes,,33,Male,Head of Household,Married/Living together,Primary education,Formally employed Private
+uniqueid_896,No,Rural,Yes,6.0,32,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_368,No,Urban,Yes,8.0,23,Male,Parent,Single/Never Married,Secondary education,Informally employed
+uniqueid_4265,No,Rural,No,,34,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2533,No,Rural,Yes,2.0,36,Female,Head of Household,Single/Never Married,No formal education,Informally employed
+uniqueid_8423,No,Rural,Yes,4.0,30,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3098,No,Rural,Yes,3.0,28,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4722,Yes,Rural,Yes,6.0,30,Female,Child,Married/Living together,Primary education,Informally employed
+uniqueid_4240,No,Rural,Yes,3.0,23,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2905,Yes,Urban,Yes,2.0,55,Female,Head of Household,Widowed,Primary education,Other Income
+uniqueid_6239,No,Rural,Yes,2.0,50,Male,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_4969,No,Rural,Yes,5.0,29,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6269,No,Rural,Yes,6.0,53,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5236,No,Rural,Yes,4.0,31,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2005,No,Rural,Yes,4.0,27,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3861,Yes,Rural,Yes,6.0,42,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_940,Yes,Urban,Yes,5.0,44,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_1329,No,Rural,Yes,4.0,23,Female,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7872,No,Rural,Yes,7.0,40,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4508,Yes,Urban,Yes,3.0,54,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_7512,No,Rural,Yes,,25,Male,Child,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_7350,No,Rural,No,2.0,55,Male,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_2644,Yes,Urban,Yes,1.0,29,Male,Head of Household,Single/Never Married,Primary education,Self employed
+uniqueid_1150,No,Rural,Yes,6.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6995,No,Rural,No,5.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5083,No,Rural,Yes,4.0,37,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6578,No,Rural,Yes,4.0,35,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3624,No,Urban,Yes,10.0,18,Female,Other non-relatives,Single/Never Married,Primary education,Informally employed
+uniqueid_4490,No,Rural,Yes,3.0,50,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6287,Yes,Rural,Yes,1.0,31,Female,Head of Household,Single/Never Married,Secondary education,Informally employed
+uniqueid_7544,No,Rural,Yes,,44,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7107,No,Rural,Yes,3.0,51,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_231,No,Rural,Yes,3.0,22,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1966,No,Rural,Yes,,30,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_5171,No,Rural,No,5.0,28,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5959,No,Rural,Yes,3.0,83,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2481,No,Rural,Yes,4.0,19,Female,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6385,Yes,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_2163,No,Rural,Yes,7.0,26,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_8278,No,Urban,Yes,1.0,59,Male,Head of Household,Single/Never Married,Secondary education,Informally employed
+uniqueid_5122,No,Rural,Yes,5.0,39,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_3198,No,Rural,No,5.0,40,Male,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_8741,No,Rural,No,6.0,28,Male,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_1007,No,Rural,Yes,2.0,28,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8733,No,Rural,Yes,4.0,18,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7204,Yes,Urban,Yes,5.0,30,Male,Head of Household,Married/Living together,Tertiary education,Informally employed
+uniqueid_6370,No,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7994,No,Urban,Yes,4.0,28,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1028,Yes,Rural,Yes,4.0,29,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_6586,No,Rural,Yes,7.0,60,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5025,No,Rural,Yes,2.0,19,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_304,No,Urban,Yes,5.0,42,Male,Head of Household,Married/Living together,Tertiary education,Informally employed
+uniqueid_2409,Yes,Rural,Yes,,40,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_1794,No,Rural,Yes,5.0,31,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7074,No,Rural,Yes,3.0,18,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_962,No,Rural,Yes,3.0,23,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_6153,No,Rural,Yes,4.0,29,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3516,No,Rural,No,1.0,62,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7084,No,Rural,Yes,6.0,17,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_29,No,Urban,Yes,8.0,22,Female,Other non-relatives,Single/Never Married,Primary education,Informally employed
+uniqueid_4984,No,Rural,Yes,5.0,19,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1172,No,Rural,Yes,9.0,42,Female,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_4788,No,Rural,Yes,2.0,47,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_4145,Yes,Rural,Yes,1.0,30,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2834,No,Rural,Yes,,35,Female,Child,Divorced/Seperated,Primary education,Government Dependent
+uniqueid_7584,No,Rural,Yes,1.0,66,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_8405,No,Rural,Yes,5.0,39,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8279,No,Rural,No,5.0,47,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4819,Yes,Rural,Yes,6.0,49,Female,Spouse,Married/Living together,No formal education,Other Income
+uniqueid_5375,Yes,Rural,Yes,5.0,41,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_3291,No,Rural,No,2.0,89,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3234,Yes,Urban,Yes,4.0,33,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_1830,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5625,No,Rural,Yes,7.0,35,Female,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_2248,No,Urban,Yes,3.0,24,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_1396,No,Rural,Yes,7.0,40,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1288,No,Rural,Yes,5.0,29,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5318,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_7000,No,Rural,Yes,4.0,77,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6450,No,Rural,Yes,,87,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_508,No,Rural,Yes,,35,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_7895,No,Rural,Yes,10.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2094,No,Rural,Yes,4.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1294,No,Rural,No,3.0,25,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2799,No,Rural,No,7.0,56,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5344,No,Rural,Yes,4.0,50,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_26,No,Rural,Yes,4.0,39,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3510,No,Rural,Yes,,47,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_3523,No,Rural,Yes,6.0,18,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2604,No,Rural,Yes,4.0,34,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_3882,No,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7529,No,Rural,No,1.0,39,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1351,No,Rural,No,6.0,34,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_5911,No,Rural,Yes,,23,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_7713,No,Rural,Yes,4.0,35,Male,Head of Household,Divorced/Seperated,Secondary education,Informally employed
+uniqueid_6271,No,Rural,Yes,5.0,32,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7151,No,Rural,Yes,3.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3507,No,Urban,Yes,9.0,50,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6463,No,Rural,Yes,4.0,32,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_6390,No,Rural,Yes,2.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6404,No,Rural,Yes,4.0,47,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_5731,No,Rural,Yes,4.0,55,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7122,No,Rural,No,1.0,83,Male,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_6981,No,Rural,Yes,6.0,17,Female,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_7828,No,Rural,Yes,,20,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6682,No,Urban,Yes,4.0,21,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_4755,No,Rural,No,3.0,70,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_2664,Yes,Rural,Yes,3.0,43,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_8091,No,Rural,Yes,3.0,48,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_170,No,Rural,No,5.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5856,No,Rural,Yes,5.0,36,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_5791,Yes,Rural,Yes,,60,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_6175,No,Urban,Yes,4.0,37,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_975,No,Urban,Yes,3.0,21,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5879,Yes,Urban,Yes,9.0,18,Female,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_3055,No,Urban,Yes,7.0,29,Female,Spouse,Married/Living together,Primary education,Other Income
+uniqueid_6543,No,Rural,Yes,3.0,27,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_3746,No,Rural,No,5.0,26,Male,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_1089,No,Rural,Yes,9.0,43,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_2497,No,Rural,No,7.0,30,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_5101,No,Rural,Yes,1.0,61,Female,Head of Household,Single/Never Married,No formal education,Other Income
+uniqueid_3994,No,Rural,Yes,6.0,40,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_5343,No,Rural,Yes,,16,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_6662,No,Urban,Yes,8.0,19,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_6808,No,Rural,Yes,5.0,36,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_7070,No,Rural,No,8.0,58,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_6863,No,Rural,Yes,7.0,36,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2100,Yes,Rural,Yes,8.0,32,Female,Spouse,Married/Living together,Secondary education,Formally employed Private
+uniqueid_4963,Yes,Rural,No,6.0,34,Female,Head of Household,Married/Living together,Primary education,Formally employed Government
+uniqueid_4949,No,Urban,Yes,6.0,16,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_115,Yes,Rural,Yes,6.0,37,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_648,No,Rural,Yes,5.0,37,Female,Other relative,Single/Never Married,No formal education,Remittance Dependent
+uniqueid_4647,No,Rural,No,4.0,59,Male,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1742,No,Urban,Yes,6.0,17,Female,Child,Single/Never Married,Secondary education,Self employed
+uniqueid_4706,No,Rural,No,5.0,54,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4264,Yes,Rural,Yes,3.0,42,Male,Head of Household,Married/Living together,No formal education,Self employed
+uniqueid_1073,No,Rural,Yes,5.0,40,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2028,Yes,Urban,Yes,6.0,36,Female,Spouse,Married/Living together,Tertiary education,Remittance Dependent
+uniqueid_7740,No,Rural,Yes,4.0,52,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_2945,No,Rural,Yes,6.0,28,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4370,No,Rural,Yes,4.0,72,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_2712,No,Rural,No,4.0,31,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_7206,No,Rural,Yes,4.0,32,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4780,Yes,Rural,Yes,7.0,45,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3966,No,Rural,Yes,8.0,34,Female,Spouse,Married/Living together,Primary education,Dont Know/Refuse to answer
+uniqueid_486,No,Urban,Yes,4.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8678,No,Rural,Yes,4.0,51,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7299,No,Rural,Yes,1.0,65,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6874,No,Rural,Yes,4.0,41,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_3990,No,Urban,Yes,2.0,60,Female,Head of Household,Widowed,Primary education,Remittance Dependent
+uniqueid_7486,No,Rural,Yes,3.0,25,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7842,No,Rural,Yes,5.0,45,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_1724,No,Rural,Yes,2.0,16,Female,Parent,Single/Never Married,Primary education,Informally employed
+uniqueid_6896,No,Rural,No,,38,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_7896,No,Urban,Yes,3.0,64,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8067,No,Urban,Yes,3.0,28,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_7717,Yes,Rural,Yes,7.0,55,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7374,No,Rural,Yes,4.0,31,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_3885,No,Rural,Yes,5.0,47,Female,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4102,No,Rural,No,7.0,56,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_7882,No,Rural,Yes,4.0,31,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_5288,No,Rural,Yes,4.0,21,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7472,No,Rural,No,3.0,71,Male,Head of Household,Married/Living together,No formal education,Other Income
+uniqueid_6580,No,Urban,Yes,4.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6690,No,Rural,Yes,4.0,28,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_5353,No,Rural,Yes,3.0,25,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_8662,No,Rural,No,2.0,80,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_2175,No,Rural,Yes,6.0,30,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_494,Yes,Urban,Yes,2.0,19,Male,Head of Household,Single/Never Married,Secondary education,Self employed
+uniqueid_4781,No,Rural,Yes,3.0,25,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7279,No,Rural,Yes,7.0,35,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5839,No,Rural,Yes,7.0,21,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1579,No,Rural,Yes,5.0,61,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4809,No,Urban,Yes,5.0,22,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_3487,No,Rural,Yes,,46,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2794,No,Rural,Yes,9.0,38,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_8130,No,Rural,Yes,4.0,55,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2106,No,Rural,Yes,5.0,33,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_10,Yes,Urban,Yes,4.0,28,Male,Child,Single/Never Married,Tertiary education,Formally employed Government
+uniqueid_2388,No,Rural,Yes,5.0,25,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8061,No,Rural,Yes,1.0,31,Male,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_6941,No,Urban,Yes,5.0,55,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_5007,No,Rural,Yes,1.0,50,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_2291,No,Rural,Yes,,51,Female,Head of Household,Widowed,No formal education,Other Income
+uniqueid_8689,No,Rural,Yes,5.0,73,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4950,No,Rural,Yes,4.0,36,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_3803,No,Rural,Yes,5.0,44,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_685,No,Rural,Yes,4.0,39,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_5862,No,Rural,Yes,5.0,63,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2457,No,Rural,Yes,4.0,30,Female,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_145,No,Rural,Yes,9.0,54,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4914,No,Rural,No,,65,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_6504,No,Rural,Yes,7.0,60,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6615,No,Rural,Yes,3.0,23,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_421,No,Rural,Yes,,78,Female,Head of Household,Married/Living together,Primary education,Government Dependent
+uniqueid_791,No,Rural,Yes,5.0,32,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3780,No,Rural,Yes,5.0,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7458,Yes,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Tertiary education,Formally employed Government
+uniqueid_7836,No,Rural,Yes,5.0,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2121,No,Rural,Yes,1.0,46,Male,Head of Household,Single/Never Married,Primary education,Self employed
+uniqueid_2096,No,Urban,Yes,6.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_946,No,Rural,Yes,2.0,24,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4093,No,Rural,Yes,3.0,35,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4773,No,Rural,Yes,5.0,65,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_916,No,Rural,Yes,7.0,37,Male,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing
+uniqueid_3156,No,Rural,Yes,4.0,35,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_7346,No,Rural,Yes,4.0,60,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7345,No,Rural,Yes,,19,Female,Head of Household,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2273,No,Rural,Yes,2.0,57,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_2989,No,Rural,Yes,4.0,50,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4624,No,Rural,Yes,4.0,28,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6216,No,Rural,Yes,4.0,25,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4227,No,Rural,Yes,5.0,19,Male,Parent,Single/Never Married,Primary education,Informally employed
+uniqueid_7035,No,Rural,Yes,4.0,51,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4103,No,Rural,Yes,,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3579,No,Rural,No,1.0,50,Female,Head of Household,Single/Never Married,No formal education,Informally employed
+uniqueid_8504,No,Rural,Yes,4.0,41,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8177,No,Rural,Yes,7.0,18,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6068,No,Rural,Yes,7.0,16,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1,No,Urban,Yes,7.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_5444,No,Urban,Yes,4.0,27,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6861,No,Rural,Yes,5.0,36,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3726,No,Rural,No,2.0,43,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_2315,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5958,No,Rural,Yes,6.0,41,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3223,No,Rural,Yes,5.0,33,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5705,No,Urban,Yes,3.0,66,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_8105,No,Rural,Yes,6.0,43,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5242,No,Rural,Yes,7.0,16,Male,Parent,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_1942,No,Rural,No,2.0,19,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_4658,No,Rural,No,2.0,60,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7064,No,Rural,Yes,5.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_389,No,Rural,Yes,,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1006,Yes,Rural,Yes,6.0,37,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5910,No,Rural,Yes,5.0,31,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4608,No,Urban,Yes,5.0,72,Female,Head of Household,Widowed,Primary education,Other Income
+uniqueid_1492,Yes,Rural,Yes,5.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1287,No,Rural,Yes,3.0,25,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8552,No,Rural,Yes,5.0,28,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_8757,No,Rural,Yes,6.0,42,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_708,No,Rural,Yes,4.0,24,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5383,No,Rural,Yes,4.0,56,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2494,No,Rural,Yes,4.0,44,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7727,Yes,Rural,Yes,5.0,48,Female,Spouse,Married/Living together,Tertiary education,Farming and Fishing
+uniqueid_691,No,Rural,No,5.0,16,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_5906,No,Rural,No,6.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7332,No,Rural,Yes,2.0,52,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_1672,No,Rural,Yes,6.0,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6757,No,Rural,Yes,9.0,69,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4840,No,Rural,No,2.0,77,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_3263,No,Rural,Yes,5.0,16,Male,Parent,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2417,No,Urban,Yes,1.0,81,Female,Head of Household,Widowed,Primary education,Government Dependent
+uniqueid_1785,No,Rural,Yes,4.0,28,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_7745,No,Rural,Yes,5.0,29,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2266,No,Rural,Yes,5.0,47,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_1975,No,Rural,Yes,3.0,70,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_6649,No,Rural,Yes,,24,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_6261,No,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8354,No,Rural,Yes,5.0,54,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7959,No,Rural,No,1.0,31,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2890,No,Urban,Yes,8.0,45,Female,Spouse,Married/Living together,Secondary education,Other Income
+uniqueid_6008,No,Rural,Yes,3.0,50,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3037,No,Rural,Yes,3.0,33,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1278,Yes,Rural,Yes,4.0,33,Male,Head of Household,Married/Living together,Tertiary education,Informally employed
+uniqueid_6198,Yes,Urban,Yes,5.0,36,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6764,No,Rural,Yes,,28,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_8172,No,Urban,Yes,7.0,24,Male,Other relative,Single/Never Married,Vocational/Specialised training,Remittance Dependent
+uniqueid_8188,No,Rural,Yes,5.0,57,Male,Head of Household,Married/Living together,Primary education,Remittance Dependent
+uniqueid_8020,No,Rural,Yes,2.0,75,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_692,No,Rural,Yes,7.0,22,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_6827,No,Rural,Yes,3.0,32,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6273,No,Rural,Yes,6.0,65,Male,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_3958,No,Rural,Yes,,41,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8311,No,Urban,Yes,10.0,45,Male,Head of Household,Widowed,Tertiary education,Formally employed Government
+uniqueid_7765,No,Rural,No,8.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4921,No,Urban,Yes,5.0,42,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7102,Yes,Urban,Yes,7.0,38,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3544,No,Rural,Yes,5.0,29,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4273,Yes,Rural,Yes,7.0,50,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7471,No,Rural,No,4.0,20,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_792,No,Rural,No,1.0,37,Female,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_6411,No,Rural,No,,78,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3344,No,Rural,No,2.0,60,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_3728,No,Rural,No,2.0,63,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_5572,No,Rural,No,2.0,63,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_248,No,Rural,Yes,6.0,72,Male,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8384,No,Rural,Yes,3.0,23,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5599,No,Rural,Yes,,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8595,No,Rural,Yes,7.0,44,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8559,No,Rural,Yes,,19,Female,Parent,Single/Never Married,Secondary education,Formally employed Government
+uniqueid_5185,No,Rural,Yes,8.0,49,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_184,No,Rural,Yes,3.0,25,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_237,No,Rural,Yes,4.0,48,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3581,No,Rural,Yes,4.0,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_379,Yes,Urban,Yes,,45,Female,Head of Household,Widowed,Secondary education,Self employed
+uniqueid_6426,No,Rural,Yes,,65,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_222,No,Rural,Yes,8.0,16,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_4522,No,Rural,Yes,13.0,41,Female,Spouse,Married/Living together,Primary education,Formally employed Private
+uniqueid_4515,No,Rural,Yes,6.0,40,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4257,No,Rural,Yes,3.0,66,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1851,No,Urban,Yes,3.0,23,Female,Spouse,Married/Living together,Secondary education,Other Income
+uniqueid_7738,No,Rural,Yes,3.0,23,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8008,Yes,Rural,Yes,2.0,24,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_6019,No,Rural,No,5.0,17,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_7712,No,Rural,No,2.0,76,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3541,No,Rural,Yes,,25,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6483,No,Urban,Yes,5.0,25,Female,Child,Single/Never Married,Secondary education,Self employed
+uniqueid_801,No,Rural,Yes,,36,Female,Head of Household,Single/Never Married,Secondary education,Informally employed
+uniqueid_452,No,Rural,Yes,7.0,37,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_7980,No,Rural,Yes,5.0,27,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_7159,No,Rural,Yes,8.0,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8160,No,Rural,Yes,5.0,26,Female,Child,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_5026,No,Rural,Yes,1.0,84,Female,Head of Household,Widowed,Primary education,Dont Know/Refuse to answer
+uniqueid_30,No,Rural,No,,65,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_3532,No,Rural,Yes,3.0,29,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6438,No,Rural,No,1.0,69,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3836,No,Rural,Yes,4.0,23,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3138,No,Rural,Yes,4.0,45,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1417,No,Rural,Yes,,58,Male,Head of Household,Widowed,Primary education,Self employed
+uniqueid_5882,No,Rural,Yes,4.0,28,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8544,No,Rural,Yes,4.0,22,Female,Child,Single/Never Married,Primary education,Formally employed Private
+uniqueid_2686,Yes,Urban,Yes,6.0,42,Female,Spouse,Married/Living together,Secondary education,Other Income
+uniqueid_7782,No,Rural,Yes,2.0,21,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2863,No,Urban,Yes,6.0,19,Male,Other non-relatives,Single/Never Married,Secondary education,Informally employed
+uniqueid_1629,No,Rural,Yes,3.0,16,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_5823,No,Rural,No,5.0,54,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6818,No,Rural,Yes,3.0,18,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_7060,No,Rural,Yes,4.0,67,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_7412,No,Rural,Yes,5.0,20,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_6235,No,Urban,Yes,4.0,19,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1796,No,Rural,No,3.0,21,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_684,No,Rural,No,6.0,58,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_144,No,Rural,Yes,4.0,53,Female,Head of Household,Divorced/Seperated,No formal education,Self employed
+uniqueid_3648,Yes,Urban,Yes,6.0,39,Female,Spouse,Married/Living together,Secondary education,Self employed
+uniqueid_2753,No,Rural,Yes,4.0,71,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6169,No,Rural,Yes,4.0,72,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3381,No,Rural,Yes,4.0,71,Female,Head of Household,Married/Living together,No formal education,Other Income
+uniqueid_7904,Yes,Rural,Yes,4.0,66,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_6789,No,Rural,Yes,3.0,23,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4889,No,Rural,Yes,4.0,58,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3461,No,Rural,Yes,3.0,30,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_6814,No,Rural,Yes,4.0,58,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7858,No,Rural,Yes,2.0,47,Female,Head of Household,Widowed,Secondary education,Farming and Fishing
+uniqueid_1895,No,Rural,Yes,7.0,19,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_5450,No,Rural,Yes,,43,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2990,No,Rural,Yes,2.0,70,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_3137,No,Rural,Yes,4.0,29,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2261,Yes,Rural,Yes,1.0,65,Female,Head of Household,Divorced/Seperated,Secondary education,Farming and Fishing
+uniqueid_4662,No,Rural,Yes,3.0,18,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4420,No,Rural,No,6.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1770,No,Rural,Yes,2.0,64,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_6802,No,Rural,No,4.0,30,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_2867,No,Rural,Yes,5.0,34,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_407,No,Rural,No,1.0,65,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_1859,No,Urban,Yes,7.0,19,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1346,No,Rural,Yes,2.0,35,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_1168,Yes,Rural,Yes,6.0,40,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2964,No,Rural,Yes,7.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1082,No,Rural,Yes,1.0,52,Male,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_2901,No,Urban,Yes,6.0,21,Male,Child,Single/Never Married,Tertiary education,Remittance Dependent
+uniqueid_185,No,Rural,Yes,7.0,34,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_15,Yes,Rural,Yes,,40,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_719,Yes,Rural,Yes,4.0,32,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_1216,No,Rural,Yes,8.0,42,Female,Spouse,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_225,No,Rural,No,6.0,36,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3039,No,Rural,No,4.0,28,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3606,No,Urban,Yes,,27,Male,Child,Single/Never Married,Secondary education,Other Income
+uniqueid_3876,Yes,Urban,Yes,8.0,32,Female,Child,Single/Never Married,Secondary education,Self employed
+uniqueid_942,No,Urban,Yes,3.0,24,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_836,No,Rural,Yes,7.0,51,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6892,No,Urban,Yes,3.0,33,Female,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_1225,No,Rural,Yes,3.0,23,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5824,No,Urban,Yes,3.0,21,Female,Head of Household,Single/Never Married,No formal education,Informally employed
+uniqueid_263,No,Rural,Yes,7.0,35,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_987,No,Rural,Yes,4.0,25,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2138,No,Rural,Yes,6.0,37,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6763,Yes,Rural,Yes,,53,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6428,No,Rural,Yes,5.0,53,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_7837,No,Rural,Yes,,29,Female,Head of Household,Widowed,Secondary education,Farming and Fishing
+uniqueid_2322,No,Rural,Yes,7.0,20,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_6406,No,Rural,Yes,4.0,27,Female,Other relative,Single/Never Married,No formal education,Informally employed
+uniqueid_5871,No,Rural,Yes,8.0,17,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_6665,No,Rural,No,,62,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_794,No,Rural,Yes,,38,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6461,No,Urban,Yes,4.0,34,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_1298,No,Rural,Yes,5.0,37,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4268,No,Rural,Yes,3.0,16,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_1692,No,Rural,No,7.0,43,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6399,No,Rural,No,3.0,40,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_5726,No,Rural,Yes,4.0,40,Female,Spouse,Married/Living together,Tertiary education,Informally employed
+uniqueid_4325,No,Rural,No,1.0,56,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7833,No,Urban,Yes,5.0,34,Female,Head of Household,Divorced/Seperated,Primary education,Self employed
+uniqueid_3003,No,Rural,Yes,3.0,16,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7870,No,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_110,No,Rural,No,2.0,70,Female,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_205,No,Rural,No,4.0,48,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1787,Yes,Urban,Yes,5.0,61,Male,Head of Household,Married/Living together,Secondary education,Formally employed Private
+uniqueid_1356,No,Rural,Yes,7.0,58,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6227,Yes,Urban,Yes,7.0,29,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1903,Yes,Rural,Yes,3.0,27,Female,Spouse,Married/Living together,Secondary education,Formally employed Private
+uniqueid_3111,No,Rural,Yes,9.0,22,Female,Child,Single/Never Married,Tertiary education,Remittance Dependent
+uniqueid_2557,No,Rural,Yes,4.0,39,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6275,No,Rural,Yes,3.0,27,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6676,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4542,No,Rural,Yes,6.0,58,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_3348,No,Rural,No,7.0,18,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6224,No,Rural,No,1.0,24,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_1491,No,Rural,Yes,7.0,21,Female,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_3838,Yes,Rural,Yes,,23,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_8653,No,Rural,Yes,6.0,46,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1035,No,Rural,Yes,4.0,38,Female,Head of Household,Widowed,Secondary education,Informally employed
+uniqueid_3704,No,Rural,No,7.0,54,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8704,No,Rural,Yes,5.0,27,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_5956,No,Rural,No,2.0,55,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_134,No,Rural,Yes,4.0,43,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4631,Yes,Rural,Yes,4.0,36,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1882,No,Rural,Yes,5.0,37,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_8316,No,Rural,Yes,,42,Female,Head of Household,Married/Living together,Secondary education,Other Income
+uniqueid_498,Yes,Urban,Yes,4.0,36,Male,Head of Household,Married/Living together,Secondary education,Formally employed Government
+uniqueid_1049,No,Rural,No,5.0,62,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_1897,No,Rural,Yes,7.0,20,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_7284,No,Rural,Yes,4.0,19,Male,Child,Single/Never Married,Secondary education,Self employed
+uniqueid_6895,No,Rural,Yes,4.0,17,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4822,Yes,Rural,Yes,7.0,50,Male,Head of Household,Married/Living together,Vocational/Specialised training,Informally employed
+uniqueid_5203,Yes,Urban,Yes,2.0,29,Female,Spouse,Married/Living together,Secondary education,Self employed
+uniqueid_8027,No,Rural,Yes,3.0,85,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5222,No,Rural,Yes,9.0,28,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2014,No,Urban,Yes,7.0,28,Female,Other non-relatives,Single/Never Married,Primary education,Informally employed
+uniqueid_3522,No,Rural,Yes,5.0,31,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8117,No,Rural,No,5.0,38,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2961,No,Rural,Yes,6.0,40,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3753,No,Rural,Yes,8.0,42,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_575,No,Rural,Yes,5.0,29,Female,Spouse,Married/Living together,Primary education,Government Dependent
+uniqueid_7850,No,Rural,No,1.0,78,Female,Head of Household,Widowed,No formal education,Dont Know/Refuse to answer
+uniqueid_3988,No,Rural,Yes,,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_455,No,Rural,Yes,,18,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_93,No,Rural,No,2.0,21,Female,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_4031,No,Rural,Yes,5.0,32,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6867,No,Rural,Yes,5.0,54,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1965,No,Rural,No,8.0,51,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_6473,No,Rural,Yes,6.0,19,Male,Child,Single/Never Married,Primary education,Self employed
+uniqueid_5458,No,Rural,Yes,1.0,58,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4127,No,Rural,Yes,5.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3932,No,Rural,No,3.0,65,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6414,No,Rural,Yes,4.0,35,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_3916,No,Urban,Yes,4.0,26,Female,Parent,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_8447,No,Rural,Yes,5.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3521,No,Rural,Yes,,27,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_5065,No,Rural,Yes,7.0,38,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_7545,Yes,Rural,Yes,3.0,24,Male,Child,Single/Never Married,Primary education,Self employed
+uniqueid_138,No,Rural,Yes,6.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1373,No,Rural,Yes,5.0,20,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_3874,Yes,Rural,Yes,4.0,80,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7744,No,Rural,Yes,6.0,34,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_3895,No,Rural,Yes,2.0,79,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2805,No,Rural,No,3.0,62,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6514,No,Rural,Yes,5.0,39,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7984,No,Urban,Yes,,36,Female,Spouse,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6026,No,Urban,Yes,,18,Female,Spouse,Divorced/Seperated,Secondary education,Informally employed
+uniqueid_7254,No,Rural,Yes,6.0,57,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_6127,No,Rural,Yes,8.0,37,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8608,No,Rural,Yes,9.0,17,Female,Parent,Single/Never Married,Secondary education,Formally employed Private
+uniqueid_3789,No,Rural,Yes,6.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3755,Yes,Rural,Yes,,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4626,No,Rural,Yes,4.0,37,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1651,No,Rural,Yes,8.0,41,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7917,No,Rural,Yes,5.0,54,Female,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_6521,No,Rural,Yes,5.0,39,Female,Spouse,Married/Living together,Vocational/Specialised training,Self employed
+uniqueid_7935,Yes,Rural,Yes,,38,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2782,No,Rural,Yes,4.0,39,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_117,No,Rural,Yes,7.0,39,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2038,No,Rural,Yes,2.0,53,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_3773,No,Rural,No,3.0,32,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_6562,No,Rural,No,7.0,40,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4369,Yes,Rural,Yes,7.0,38,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5626,No,Rural,Yes,6.0,24,Female,Child,Single/Never Married,Secondary education,Other Income
+uniqueid_5678,No,Rural,Yes,6.0,59,Male,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6022,Yes,Urban,Yes,,27,Female,Spouse,Married/Living together,Tertiary education,Farming and Fishing
+uniqueid_7568,No,Rural,No,5.0,37,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_7841,No,Rural,Yes,9.0,20,Female,Child,Single/Never Married,Primary education,Other Income
+uniqueid_6540,No,Rural,Yes,5.0,29,Female,Child,Single/Never Married,No formal education,Informally employed
+uniqueid_6576,No,Rural,Yes,2.0,26,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6574,No,Rural,No,6.0,30,Female,Child,Widowed,No formal education,Informally employed
+uniqueid_7802,No,Rural,Yes,3.0,35,Male,Head of Household,Married/Living together,Primary education,Formally employed Private
+uniqueid_2543,No,Rural,Yes,4.0,62,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2406,No,Rural,Yes,9.0,73,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8022,No,Rural,Yes,2.0,75,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7615,No,Rural,Yes,,66,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_166,No,Rural,Yes,2.0,25,Male,Parent,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_3127,No,Rural,Yes,,69,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6702,No,Rural,Yes,7.0,18,Female,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_7923,No,Rural,Yes,5.0,31,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_2951,No,Rural,Yes,7.0,20,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_5540,No,Rural,Yes,3.0,65,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3248,No,Rural,Yes,6.0,41,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6381,No,Rural,Yes,3.0,18,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_6696,No,Rural,Yes,4.0,18,Male,Parent,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_3379,No,Rural,Yes,5.0,37,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5600,No,Rural,Yes,5.0,49,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_1818,No,Rural,Yes,6.0,55,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6333,Yes,Urban,Yes,5.0,36,Female,Spouse,Married/Living together,Tertiary education,Formally employed Government
+uniqueid_45,Yes,Urban,Yes,5.0,34,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_6201,No,Rural,Yes,6.0,47,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_1643,No,Rural,No,5.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4334,No,Rural,Yes,3.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8530,No,Rural,Yes,,18,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7714,No,Rural,Yes,3.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2892,No,Rural,Yes,5.0,27,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_5137,No,Rural,No,3.0,25,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_435,No,Rural,Yes,,33,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_6476,No,Rural,Yes,7.0,17,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1597,No,Rural,Yes,2.0,52,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1381,No,Rural,No,5.0,49,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_5279,No,Rural,Yes,2.0,30,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7220,No,Rural,Yes,,52,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_657,No,Rural,Yes,4.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6383,No,Rural,Yes,,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4225,No,Rural,No,,76,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1490,No,Rural,No,3.0,21,Female,Spouse,Single/Never Married,Secondary education,Informally employed
+uniqueid_3513,No,Rural,No,5.0,52,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1821,No,Rural,No,6.0,60,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6128,No,Rural,Yes,2.0,53,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_6277,No,Rural,Yes,6.0,39,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_1520,No,Rural,Yes,3.0,23,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_2321,No,Rural,Yes,4.0,47,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2780,No,Rural,Yes,,36,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2841,No,Rural,Yes,4.0,22,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8283,No,Rural,Yes,6.0,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7508,No,Rural,Yes,3.0,65,Female,Head of Household,Widowed,Primary education,Self employed
+uniqueid_2033,No,Rural,Yes,,21,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8204,No,Rural,No,4.0,16,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_7768,No,Rural,Yes,,48,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2217,No,Rural,Yes,2.0,29,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_6454,No,Rural,No,1.0,65,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_1771,No,Rural,No,5.0,36,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_5114,No,Urban,Yes,,45,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_838,Yes,Rural,Yes,5.0,40,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_909,No,Rural,Yes,5.0,48,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_959,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1852,No,Rural,No,6.0,41,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3929,No,Rural,Yes,8.0,27,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_2581,No,Rural,No,,45,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6796,No,Urban,Yes,10.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1983,No,Rural,Yes,,40,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4097,No,Rural,Yes,3.0,32,Female,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_944,Yes,Rural,Yes,7.0,38,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_5340,No,Rural,Yes,4.0,63,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6409,No,Rural,Yes,4.0,30,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3535,No,Rural,Yes,5.0,22,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4262,No,Rural,Yes,,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_380,No,Rural,Yes,3.0,27,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1522,No,Rural,Yes,5.0,26,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_1055,No,Rural,Yes,3.0,24,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5093,No,Rural,Yes,6.0,16,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_6119,No,Rural,Yes,3.0,21,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_6178,Yes,Urban,Yes,7.0,17,Female,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_5145,No,Rural,Yes,3.0,33,Female,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2332,No,Urban,Yes,8.0,24,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2206,No,Rural,Yes,3.0,31,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_1493,No,Rural,Yes,,40,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3959,Yes,Urban,Yes,,35,Female,Spouse,Married/Living together,Tertiary education,Formally employed Private
+uniqueid_5075,No,Urban,No,1.0,53,Male,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_3660,No,Rural,Yes,5.0,27,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6494,No,Rural,No,3.0,61,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_470,No,Rural,No,1.0,55,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_6449,No,Rural,Yes,7.0,55,Male,Head of Household,Married/Living together,No formal education,Formally employed Government
+uniqueid_3286,No,Rural,Yes,5.0,33,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6282,No,Urban,Yes,3.0,27,Male,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1827,No,Rural,No,8.0,18,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_1489,No,Rural,Yes,7.0,20,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_4267,No,Rural,No,5.0,34,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_2909,No,Rural,Yes,6.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3228,No,Rural,Yes,6.0,51,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6829,No,Urban,Yes,4.0,17,Female,Other relative,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_636,No,Rural,Yes,8.0,16,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_1377,No,Rural,Yes,7.0,41,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6488,No,Rural,Yes,4.0,30,Female,Child,Married/Living together,Secondary education,Informally employed
+uniqueid_4467,No,Rural,No,,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2701,No,Rural,Yes,1.0,58,Female,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_7352,Yes,Urban,Yes,5.0,31,Male,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing
+uniqueid_6228,No,Rural,No,3.0,57,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3480,No,Rural,Yes,3.0,69,Female,Head of Household,Widowed,Primary education,Remittance Dependent
+uniqueid_3819,Yes,Urban,Yes,,30,Male,Head of Household,Married/Living together,Tertiary education,Informally employed
+uniqueid_4081,No,Rural,Yes,3.0,25,Female,Head of Household,Widowed,Primary education,Self employed
+uniqueid_309,No,Rural,Yes,3.0,88,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3772,No,Rural,Yes,,28,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1383,No,Rural,No,3.0,67,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_5287,No,Rural,Yes,7.0,50,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_7460,No,Rural,Yes,6.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3781,No,Urban,Yes,,58,Male,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_2719,No,Rural,Yes,,30,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3115,No,Rural,Yes,2.0,63,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3389,No,Rural,Yes,6.0,38,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_5115,No,Urban,Yes,6.0,38,Female,Spouse,Married/Living together,Secondary education,Formally employed Government
+uniqueid_3854,No,Rural,Yes,7.0,47,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_2767,No,Rural,Yes,1.0,65,Male,Head of Household,Divorced/Seperated,Secondary education,Farming and Fishing
+uniqueid_3391,No,Rural,Yes,1.0,64,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_1676,No,Urban,Yes,7.0,56,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7946,No,Rural,Yes,3.0,28,Male,Head of Household,Married/Living together,Primary education,Remittance Dependent
+uniqueid_3287,No,Rural,Yes,4.0,33,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_4181,No,Rural,No,2.0,17,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8412,No,Rural,Yes,5.0,31,Female,Spouse,Married/Living together,Primary education,Formally employed Private
+uniqueid_8256,No,Rural,Yes,7.0,46,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4711,No,Urban,No,6.0,54,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7862,No,Rural,No,5.0,37,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5146,No,Urban,Yes,9.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2526,No,Urban,Yes,6.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1725,No,Rural,Yes,6.0,16,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_6032,No,Rural,Yes,6.0,31,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5100,No,Rural,Yes,8.0,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6062,No,Rural,Yes,,63,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6672,No,Rural,Yes,5.0,29,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_8307,No,Rural,Yes,9.0,33,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_5854,Yes,Urban,Yes,8.0,21,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_5192,No,Rural,No,6.0,41,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4014,No,Rural,Yes,6.0,64,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7804,No,Rural,Yes,8.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4509,No,Urban,Yes,5.0,28,Male,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing
+uniqueid_1587,No,Rural,Yes,1.0,23,Male,Head of Household,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_155,No,Rural,Yes,5.0,42,Male,Head of Household,Married/Living together,Primary education,Formally employed Private
+uniqueid_7333,No,Urban,No,3.0,33,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2888,No,Rural,Yes,,54,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1806,No,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3609,No,Rural,Yes,4.0,36,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_3041,No,Rural,Yes,1.0,50,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_6313,Yes,Urban,Yes,2.0,27,Male,Head of Household,Single/Never Married,Secondary education,Informally employed
+uniqueid_1250,No,Urban,Yes,7.0,19,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_7764,No,Rural,Yes,7.0,39,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6467,No,Rural,Yes,5.0,32,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_7817,No,Rural,Yes,1.0,24,Male,Head of Household,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2807,No,Rural,No,3.0,60,Female,Head of Household,Widowed,Primary education,Other Income
+uniqueid_5699,No,Rural,No,5.0,43,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4785,No,Rural,Yes,2.0,20,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_3931,No,Rural,Yes,4.0,55,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_1390,Yes,Rural,Yes,,42,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_1032,No,Rural,Yes,3.0,39,Female,Head of Household,Widowed,Vocational/Specialised training,Farming and Fishing
+uniqueid_2773,No,Rural,Yes,4.0,42,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1147,No,Rural,Yes,,26,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2950,No,Rural,Yes,3.0,35,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_6171,No,Rural,Yes,3.0,16,Female,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_2040,No,Rural,Yes,6.0,17,Male,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_840,No,Rural,No,,84,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5084,No,Rural,Yes,7.0,20,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1093,No,Urban,Yes,5.0,16,Male,Child,Single/Never Married,Secondary education,Other Income
+uniqueid_7630,No,Rural,Yes,2.0,67,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3380,No,Rural,No,5.0,40,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3157,No,Rural,Yes,2.0,58,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_2378,No,Rural,Yes,6.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3638,No,Rural,No,8.0,39,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2220,Yes,Rural,Yes,,22,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_3823,No,Rural,Yes,3.0,21,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2122,No,Rural,Yes,5.0,37,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5622,Yes,Rural,Yes,5.0,51,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_3963,Yes,Urban,Yes,7.0,18,Male,Child,Single/Never Married,Secondary education,Other Income
+uniqueid_3949,No,Urban,Yes,6.0,18,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_7353,No,Rural,Yes,7.0,40,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5363,No,Urban,Yes,6.0,30,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_8509,No,Rural,Yes,8.0,41,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_2022,No,Rural,No,1.0,97,Female,Head of Household,Widowed,No formal education,Other Income
+uniqueid_694,No,Rural,Yes,,17,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_1245,Yes,Rural,Yes,4.0,38,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8036,No,Rural,Yes,4.0,44,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7373,No,Rural,Yes,6.0,46,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_5760,Yes,Rural,Yes,1.0,38,Male,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_1374,No,Rural,Yes,,39,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_2672,No,Rural,Yes,5.0,21,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_5527,No,Rural,Yes,2.0,45,Female,Head of Household,Single/Never Married,No formal education,Farming and Fishing
+uniqueid_1847,Yes,Urban,Yes,4.0,40,Male,Head of Household,Married/Living together,Tertiary education,Remittance Dependent
+uniqueid_4875,Yes,Rural,Yes,7.0,19,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_3883,No,Rural,Yes,3.0,29,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2208,No,Rural,Yes,7.0,16,Female,Child,Single/Never Married,Vocational/Specialised training,Farming and Fishing
+uniqueid_8669,No,Rural,Yes,2.0,61,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4632,No,Rural,No,4.0,28,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7219,No,Rural,Yes,2.0,84,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1846,Yes,Urban,Yes,5.0,29,Male,Child,Single/Never Married,Tertiary education,Formally employed Private
+uniqueid_6004,No,Rural,Yes,6.0,49,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6809,No,Rural,No,,17,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_5013,No,Rural,Yes,2.0,51,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_2405,No,Urban,Yes,7.0,28,Female,Child,Single/Never Married,Tertiary education,Remittance Dependent
+uniqueid_5512,No,Rural,Yes,3.0,61,Female,Head of Household,Widowed,No formal education,Self employed
+uniqueid_5028,No,Rural,Yes,5.0,47,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8438,Yes,Rural,Yes,7.0,57,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5740,No,Rural,Yes,5.0,51,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_5511,No,Urban,Yes,,46,Female,Spouse,Married/Living together,Tertiary education,Informally employed
+uniqueid_2377,No,Rural,Yes,7.0,87,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7916,No,Urban,Yes,6.0,53,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5426,No,Rural,Yes,5.0,33,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3368,No,Urban,Yes,9.0,50,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5967,No,Rural,Yes,6.0,25,Female,Parent,Single/Never Married,Primary education,Self employed
+uniqueid_5522,No,Rural,No,2.0,83,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_3073,No,Rural,Yes,4.0,20,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_445,Yes,Rural,Yes,,31,Female,Spouse,Married/Living together,Secondary education,Formally employed Government
+uniqueid_1205,No,Rural,Yes,5.0,40,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5072,No,Rural,Yes,7.0,33,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5022,No,Rural,No,3.0,24,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7038,No,Rural,Yes,8.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6610,No,Rural,No,4.0,22,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_1715,No,Rural,Yes,7.0,17,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_2047,No,Rural,Yes,7.0,54,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_5382,No,Rural,Yes,6.0,34,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_133,No,Rural,Yes,4.0,24,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_1834,No,Rural,Yes,4.0,33,Female,Head of Household,Divorced/Seperated,Primary education,Self employed
+uniqueid_7891,No,Rural,Yes,3.0,25,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_4392,No,Rural,No,,53,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_3568,No,Rural,Yes,3.0,57,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_3970,No,Rural,Yes,4.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3733,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8097,No,Rural,No,4.0,30,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_6134,No,Rural,No,4.0,37,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_109,No,Rural,Yes,7.0,35,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_8218,No,Rural,No,7.0,73,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_2084,No,Rural,Yes,5.0,31,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_8050,No,Rural,Yes,3.0,75,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_7310,No,Urban,Yes,5.0,21,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4842,No,Rural,Yes,3.0,69,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_8300,No,Rural,Yes,6.0,39,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_6279,No,Rural,Yes,7.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_5886,No,Urban,Yes,3.0,29,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_7148,No,Urban,Yes,,40,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_1707,No,Rural,No,6.0,43,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_5531,No,Rural,Yes,4.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7435,No,Urban,Yes,7.0,38,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7057,No,Rural,No,3.0,79,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_1202,Yes,Rural,Yes,2.0,25,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1394,No,Rural,No,2.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1614,No,Rural,Yes,6.0,49,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_830,No,Rural,Yes,4.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_1687,No,Rural,Yes,6.0,45,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2708,No,Rural,Yes,4.0,25,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6368,No,Rural,Yes,7.0,42,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_3906,No,Rural,Yes,6.0,50,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2283,No,Rural,Yes,4.0,31,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_8222,No,Rural,Yes,7.0,35,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6471,No,Rural,Yes,8.0,36,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4792,Yes,Urban,Yes,5.0,46,Male,Head of Household,Married/Living together,Tertiary education,Self employed
+uniqueid_5289,No,Urban,Yes,3.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_723,No,Rural,Yes,,25,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_650,No,Rural,Yes,5.0,42,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2601,No,Rural,Yes,3.0,22,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_4958,No,Rural,Yes,3.0,16,Male,Parent,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_5997,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2598,No,Rural,Yes,4.0,53,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_854,No,Rural,Yes,,32,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8450,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2757,No,Urban,Yes,6.0,19,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_2640,No,Rural,Yes,8.0,19,Male,Child,Single/Never Married,Vocational/Specialised training,Farming and Fishing
+uniqueid_6936,No,Rural,Yes,9.0,43,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_938,No,Urban,Yes,5.0,41,Female,Spouse,Single/Never Married,Primary education,Informally employed
+uniqueid_495,No,Rural,Yes,3.0,43,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_4241,No,Rural,Yes,1.0,63,Male,Head of Household,Widowed,Primary education,Dont Know/Refuse to answer
+uniqueid_7404,No,Rural,No,2.0,64,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_1981,No,Rural,No,4.0,33,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5847,Yes,Urban,Yes,3.0,24,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_5079,No,Rural,Yes,6.0,42,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2720,No,Rural,Yes,4.0,17,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_4621,Yes,Rural,Yes,4.0,42,Male,Head of Household,Married/Living together,Secondary education,Formally employed Government
+uniqueid_4995,No,Rural,Yes,8.0,43,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_8051,Yes,Rural,Yes,5.0,41,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_8297,No,Rural,No,3.0,36,Female,Child,Divorced/Seperated,No formal education,Informally employed
+uniqueid_858,No,Urban,Yes,5.0,19,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_8728,No,Rural,Yes,6.0,45,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_324,Yes,Rural,Yes,5.0,65,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_2232,No,Rural,Yes,6.0,22,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_5812,No,Rural,Yes,,17,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_7069,No,Rural,Yes,5.0,38,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_8035,No,Rural,Yes,6.0,35,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5346,Yes,Urban,Yes,3.0,38,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_4803,No,Rural,No,3.0,85,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4635,No,Rural,Yes,4.0,19,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_4199,Yes,Rural,Yes,,45,Male,Head of Household,Married/Living together,Secondary education,Other Income
+uniqueid_6125,No,Rural,Yes,3.0,49,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_4590,No,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3677,No,Urban,Yes,2.0,26,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_7743,No,Rural,Yes,5.0,49,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_5504,No,Rural,Yes,,18,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_8155,No,Urban,Yes,3.0,40,Male,Head of Household,Married/Living together,Secondary education,Other Income
+uniqueid_1004,No,Rural,Yes,3.0,23,Male,Other non-relatives,Single/Never Married,Primary education,Formally employed Private
+uniqueid_5441,No,Rural,Yes,1.0,53,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_130,No,Rural,Yes,8.0,40,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8243,Yes,Rural,Yes,3.0,31,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_663,No,Rural,Yes,3.0,20,Male,Other relative,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_3105,No,Rural,Yes,2.0,57,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5808,No,Rural,No,2.0,57,Female,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_3085,No,Rural,Yes,3.0,25,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_6405,No,Rural,No,2.0,79,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_3933,No,Rural,No,,53,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2271,Yes,Rural,Yes,6.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5479,Yes,Rural,Yes,7.0,37,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_806,No,Rural,Yes,3.0,47,Female,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_837,No,Rural,Yes,3.0,33,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6561,No,Rural,Yes,3.0,69,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_6012,No,Rural,Yes,7.0,59,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3240,No,Rural,Yes,,27,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8410,No,Rural,No,7.0,19,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_2956,No,Rural,Yes,3.0,60,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6136,No,Rural,Yes,5.0,17,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6847,No,Rural,Yes,5.0,28,Female,Child,Divorced/Seperated,Primary education,Informally employed
+uniqueid_8090,No,Rural,No,9.0,16,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_4319,No,Urban,No,7.0,35,Male,Head of Household,Married/Living together,Primary education,Formally employed Private
+uniqueid_6882,No,Rural,Yes,8.0,37,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1639,Yes,Rural,Yes,4.0,59,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4245,No,Rural,Yes,4.0,35,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7660,No,Rural,No,7.0,35,Female,Spouse,Married/Living together,Other/Dont know/RTA,Informally employed
+uniqueid_7336,Yes,Urban,Yes,1.0,21,Male,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_5170,No,Rural,Yes,8.0,17,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_196,No,Rural,Yes,3.0,60,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8554,No,Rural,Yes,3.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2968,No,Rural,Yes,4.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_5053,No,Rural,Yes,3.0,63,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3923,No,Urban,Yes,9.0,17,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_8003,No,Rural,Yes,,64,Male,Head of Household,Divorced/Seperated,No formal education,Farming and Fishing
+uniqueid_3742,No,Rural,Yes,4.0,20,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_8033,No,Rural,Yes,4.0,37,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5138,No,Rural,Yes,5.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7580,Yes,Rural,Yes,5.0,33,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_2073,Yes,Rural,Yes,,25,Male,Head of Household,Single/Never Married,Primary education,Self employed
+uniqueid_920,Yes,Rural,Yes,6.0,48,Female,Spouse,Married/Living together,Secondary education,Formally employed Private
+uniqueid_6302,Yes,Rural,Yes,2.0,26,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_2509,No,Rural,Yes,3.0,26,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4263,No,Rural,Yes,4.0,27,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4211,No,Rural,No,1.0,73,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5735,No,Rural,Yes,3.0,33,Female,Head of Household,Divorced/Seperated,Primary education,Other Income
+uniqueid_8353,Yes,Rural,Yes,3.0,27,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8363,No,Rural,No,4.0,67,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_4041,No,Rural,Yes,5.0,25,Male,Child,Single/Never Married,Primary education,Other Income
+uniqueid_8093,No,Urban,Yes,4.0,22,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_559,No,Rural,Yes,8.0,18,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_4667,No,Rural,Yes,7.0,47,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6674,No,Rural,Yes,6.0,58,Female,Head of Household,Widowed,No formal education,Formally employed Private
+uniqueid_5758,No,Rural,Yes,2.0,55,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_2620,No,Rural,Yes,3.0,17,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_1938,No,Rural,Yes,4.0,64,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3853,No,Rural,No,,31,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8661,No,Rural,Yes,5.0,21,Female,Parent,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_5793,No,Rural,Yes,4.0,32,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8718,No,Rural,Yes,1.0,55,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_8101,No,Rural,No,5.0,21,Male,Other relative,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_4779,No,Rural,Yes,2.0,51,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_7025,No,Rural,No,2.0,69,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_33,No,Rural,Yes,5.0,16,Male,Child,Single/Never Married,Secondary education,Informally employed
+uniqueid_7623,No,Rural,Yes,3.0,26,Male,Head of Household,Married/Living together,No formal education,Self employed
+uniqueid_2559,No,Rural,No,3.0,25,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_7082,No,Rural,Yes,5.0,32,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6140,No,Rural,No,4.0,58,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_2145,Yes,Rural,Yes,6.0,33,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_5677,No,Rural,Yes,3.0,55,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7620,No,Rural,Yes,2.0,67,Female,Head of Household,Widowed,No formal education,Remittance Dependent
+uniqueid_5943,No,Rural,Yes,1.0,57,Male,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_1348,No,Urban,Yes,3.0,70,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_5407,No,Rural,No,2.0,68,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_2346,No,Rural,Yes,4.0,28,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6866,No,Rural,No,2.0,80,Male,Head of Household,Widowed,No formal education,Other Income
+uniqueid_8089,No,Rural,Yes,3.0,27,Female,Spouse,Married/Living together,Primary education,Remittance Dependent
+uniqueid_2844,No,Urban,No,6.0,35,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4987,No,Rural,Yes,2.0,64,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_834,No,Rural,No,2.0,54,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4538,No,Urban,Yes,3.0,54,Female,Head of Household,Widowed,Primary education,Farming and Fishing
+uniqueid_6762,No,Rural,Yes,6.0,47,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_874,No,Rural,Yes,7.0,32,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_2335,No,Rural,Yes,4.0,34,Female,Head of Household,Divorced/Seperated,Primary education,Informally employed
+uniqueid_3863,No,Rural,Yes,7.0,16,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_5252,No,Rural,Yes,2.0,70,Male,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_1894,No,Rural,Yes,3.0,16,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_1604,No,Rural,Yes,3.0,31,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_4449,No,Rural,Yes,4.0,65,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_712,Yes,Rural,Yes,3.0,20,Female,Child,Single/Never Married,Vocational/Specialised training,Self employed
+uniqueid_4512,No,Rural,Yes,6.0,32,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_5548,No,Rural,Yes,4.0,47,Female,Head of Household,Divorced/Seperated,Secondary education,Informally employed
+uniqueid_5153,No,Rural,Yes,5.0,34,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_5810,No,Rural,Yes,1.0,52,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_2653,No,Rural,Yes,4.0,38,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3553,No,Rural,No,2.0,22,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3043,No,Rural,No,2.0,88,Female,Head of Household,Widowed,No formal education,Government Dependent
+uniqueid_842,No,Rural,Yes,5.0,17,Female,Other relative,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_5890,No,Urban,Yes,4.0,28,Female,Spouse,Married/Living together,Primary education,Self employed
+uniqueid_7349,No,Rural,No,4.0,28,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7008,No,Rural,Yes,1.0,68,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_6039,No,Rural,Yes,1.0,62,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3713,No,Rural,Yes,8.0,45,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4484,No,Rural,Yes,,55,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6988,No,Rural,Yes,6.0,20,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_3087,No,Rural,Yes,5.0,34,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_4530,No,Rural,Yes,6.0,20,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_926,No,Rural,Yes,10.0,17,Female,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2159,No,Rural,No,2.0,80,Male,Head of Household,Married/Living together,Other/Dont know/RTA,Informally employed
+uniqueid_3045,No,Rural,Yes,3.0,29,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_5428,No,Rural,No,3.0,84,Male,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4084,No,Rural,Yes,6.0,17,Male,Other non-relatives,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_703,No,Rural,Yes,,47,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2423,No,Rural,Yes,,25,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_74,No,Rural,Yes,3.0,42,Female,Head of Household,Single/Never Married,No formal education,Informally employed
+uniqueid_748,Yes,Urban,Yes,7.0,72,Male,Head of Household,Married/Living together,Vocational/Specialised training,Remittance Dependent
+uniqueid_3387,No,Rural,Yes,3.0,17,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_2667,No,Rural,Yes,5.0,30,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8042,No,Rural,No,3.0,85,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7951,No,Rural,Yes,2.0,39,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4192,No,Rural,Yes,6.0,37,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6630,No,Rural,No,4.0,42,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4026,No,Rural,Yes,7.0,39,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_4751,No,Rural,No,4.0,30,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_7777,No,Rural,Yes,,25,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_5331,No,Rural,No,4.0,64,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_4179,No,Rural,Yes,7.0,35,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7431,No,Rural,Yes,3.0,71,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_4498,No,Rural,Yes,4.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4045,No,Urban,Yes,7.0,47,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_869,No,Rural,Yes,5.0,71,Male,Head of Household,Married/Living together,Vocational/Specialised training,Farming and Fishing
+uniqueid_509,No,Rural,Yes,6.0,37,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_3321,No,Rural,Yes,7.0,54,Male,Head of Household,Married/Living together,Secondary education,Informally employed
+uniqueid_4282,No,Rural,Yes,3.0,19,Female,Other non-relatives,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2447,No,Rural,Yes,5.0,33,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_951,No,Rural,No,8.0,16,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1957,Yes,Rural,Yes,,73,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_6909,No,Rural,No,4.0,50,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_8701,No,Rural,Yes,5.0,26,Male,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_8523,No,Rural,No,6.0,30,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8531,No,Rural,Yes,3.0,31,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4297,No,Rural,Yes,5.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8607,No,Urban,Yes,5.0,34,Female,Spouse,Married/Living together,Tertiary education,Other Income
+uniqueid_7612,No,Rural,Yes,1.0,80,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_7861,No,Rural,Yes,5.0,47,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_4526,No,Rural,Yes,7.0,37,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_8015,No,Urban,Yes,4.0,26,Female,Spouse,Married/Living together,Secondary education,Other Income
+uniqueid_3891,Yes,Rural,Yes,3.0,29,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_188,No,Rural,Yes,6.0,40,Female,Head of Household,Married/Living together,No formal education,Informally employed
+uniqueid_5931,No,Urban,Yes,8.0,18,Female,Other non-relatives,Single/Never Married,Primary education,Formally employed Private
+uniqueid_2468,No,Rural,Yes,4.0,44,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_1754,No,Rural,No,6.0,79,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_295,No,Rural,Yes,4.0,31,Male,Head of Household,Married/Living together,Primary education,Self employed
+uniqueid_1634,Yes,Urban,Yes,6.0,53,Male,Head of Household,Married/Living together,Tertiary education,Formally employed Government
+uniqueid_1536,No,Rural,Yes,3.0,28,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_75,No,Rural,Yes,,22,Female,Child,Single/Never Married,Primary education,Remittance Dependent
+uniqueid_8720,No,Urban,Yes,4.0,41,Female,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_1605,No,Rural,Yes,10.0,16,Female,Parent,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8166,No,Rural,Yes,3.0,20,Female,Other relative,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_5268,No,Rural,Yes,1.0,40,Female,Head of Household,Single/Never Married,No formal education,Informally employed
+uniqueid_141,No,Rural,No,4.0,32,Male,Head of Household,Single/Never Married,Primary education,Informally employed
+uniqueid_3016,No,Rural,Yes,,28,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8301,No,Rural,Yes,10.0,43,Female,Spouse,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_2049,No,Rural,Yes,,47,Female,Head of Household,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_2678,No,Rural,Yes,5.0,26,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6925,No,Urban,Yes,4.0,27,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7783,No,Rural,No,4.0,54,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_768,Yes,Rural,Yes,,26,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_5887,Yes,Urban,Yes,3.0,31,Female,Spouse,Married/Living together,Secondary education,Remittance Dependent
+uniqueid_5792,No,Rural,Yes,8.0,45,Male,Head of Household,Married/Living together,Primary education,Government Dependent
+uniqueid_6172,No,Rural,Yes,8.0,45,Male,Head of Household,Married/Living together,Secondary education,Self employed
+uniqueid_7628,No,Rural,No,5.0,33,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1094,No,Urban,Yes,3.0,49,Female,Head of Household,Divorced/Seperated,Primary education,Self employed
+uniqueid_755,No,Rural,No,6.0,42,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_1369,Yes,Urban,Yes,8.0,43,Male,Head of Household,Married/Living together,Vocational/Specialised training,Other Income
+uniqueid_8609,No,Rural,Yes,3.0,25,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_654,No,Rural,Yes,2.0,66,Female,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7002,No,Rural,Yes,6.0,50,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_616,No,Rural,Yes,2.0,30,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7180,No,Rural,Yes,6.0,55,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_4770,No,Rural,No,6.0,16,Female,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_2857,No,Urban,Yes,3.0,31,Female,Head of Household,Single/Never Married,Vocational/Specialised training,Self employed
+uniqueid_2294,No,Rural,Yes,5.0,49,Male,Head of Household,Married/Living together,Secondary education,Farming and Fishing
+uniqueid_1647,No,Rural,No,,65,Male,Head of Household,Widowed,Primary education,Informally employed
+uniqueid_3909,No,Rural,Yes,,41,Female,Spouse,Married/Living together,Secondary education,Informally employed
+uniqueid_5219,No,Rural,No,2.0,54,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5188,No,Rural,Yes,5.0,43,Female,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_2838,No,Rural,Yes,5.0,27,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7110,No,Rural,No,4.0,73,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_967,No,Rural,Yes,1.0,35,Male,Head of Household,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_6233,No,Rural,No,6.0,45,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_1841,No,Rural,Yes,5.0,24,Male,Head of Household,Married/Living together,Primary education,Other Income
+uniqueid_5923,No,Rural,Yes,6.0,45,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_6345,No,Rural,Yes,2.0,75,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_2153,No,Rural,Yes,6.0,32,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_1916,No,Rural,Yes,,72,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_8428,No,Rural,Yes,8.0,16,Male,Child,Single/Never Married,Primary education,Informally employed
+uniqueid_6354,No,Rural,No,2.0,50,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_3324,No,Rural,Yes,4.0,30,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_449,No,Rural,Yes,3.0,30,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_209,No,Rural,Yes,2.0,58,Female,Head of Household,Widowed,Primary education,Other Income
+uniqueid_3230,No,Rural,Yes,5.0,23,Female,Child,Single/Never Married,Primary education,Dont Know/Refuse to answer
+uniqueid_5358,Yes,Urban,Yes,9.0,48,Female,Spouse,Married/Living together,Tertiary education,Farming and Fishing
+uniqueid_4322,No,Rural,Yes,6.0,34,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_3146,No,Rural,Yes,5.0,50,Male,Head of Household,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4351,No,Urban,Yes,4.0,25,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_2461,No,Rural,Yes,4.0,51,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_5968,Yes,Rural,Yes,3.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_3792,No,Rural,Yes,12.0,20,Female,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_749,No,Urban,Yes,3.0,38,Female,Head of Household,Divorced/Seperated,No formal education,Other Income
+uniqueid_3851,No,Rural,Yes,7.0,17,Male,Child,Single/Never Married,Secondary education,Farming and Fishing
+uniqueid_7516,No,Rural,Yes,5.0,33,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_7316,No,Rural,Yes,4.0,45,Male,Head of Household,Married/Living together,No formal education,Formally employed Private
+uniqueid_2089,No,Rural,No,4.0,26,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_5841,No,Rural,Yes,,56,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7918,No,Rural,Yes,3.0,77,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_6977,No,Rural,Yes,2.0,56,Female,Head of Household,Widowed,No formal education,Farming and Fishing
+uniqueid_707,No,Rural,Yes,5.0,31,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_180,No,Rural,Yes,4.0,26,Female,Spouse,Married/Living together,No formal education,Informally employed
+uniqueid_2189,No,Rural,Yes,4.0,72,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_1024,No,Rural,No,2.0,48,Female,Spouse,Married/Living together,No formal education,Farming and Fishing
+uniqueid_192,Yes,Urban,Yes,6.0,42,Male,Head of Household,Married/Living together,Tertiary education,Formally employed Government
+uniqueid_6300,No,Rural,Yes,4.0,25,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_4922,No,Rural,No,5.0,18,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1046,No,Rural,Yes,3.0,42,Female,Head of Household,Divorced/Seperated,No formal education,Informally employed
+uniqueid_6099,No,Rural,No,3.0,23,Female,Spouse,Married/Living together,Primary education,Farming and Fishing
+uniqueid_7105,No,Rural,Yes,,24,Male,Child,Single/Never Married,Primary education,Farming and Fishing
+uniqueid_8162,No,Rural,Yes,1.0,51,Female,Head of Household,Single/Never Married,No formal education,Informally employed
+uniqueid_7499,No,Rural,Yes,7.0,43,Female,Spouse,Divorced/Seperated,Primary education,Farming and Fishing
+uniqueid_6468,No,Rural,No,3.0,63,Female,Head of Household,Widowed,No formal education,Informally employed
+uniqueid_3846,No,Rural,Yes,4.0,38,Female,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_6771,No,Rural,Yes,8.0,20,Male,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_1078,No,Rural,Yes,2.0,27,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_7196,No,Rural,Yes,,28,Female,Spouse,Married/Living together,Primary education,Informally employed
+uniqueid_8370,No,Rural,Yes,4.0,59,Male,Head of Household,Married/Living together,No formal education,Farming and Fishing
+uniqueid_828,No,Rural,Yes,4.0,41,Male,Head of Household,Married/Living together,Primary education,Informally employed
+uniqueid_3551,Yes,Urban,Yes,2.0,30,Female,Head of Household,Single/Never Married,Secondary education,Formally employed Government
+uniqueid_7312,No,Rural,Yes,4.0,17,Female,Child,Single/Never Married,Secondary education,Remittance Dependent
+uniqueid_8318,Yes,Rural,Yes,7.0,23,Female,Child,Single/Never Married,Primary education,Farming and Fishing
